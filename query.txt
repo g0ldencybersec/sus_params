@@ -1,0 +1,175 @@
+query HacktivityPageQuery($querystring: String, $orderBy: HacktivityItemOrderInput, $secureOrderBy: FiltersHacktivityItemFilterOrder, $where: FiltersHacktivityItemFilterInput, $count: Int, $cursor: String, $maxShownVoters: Int) {
+  me {
+    id
+    __typename
+  }
+  hacktivity_items(
+    first: $count
+    after: $cursor
+    query: $querystring
+    order_by: $orderBy
+    secure_order_by: $secureOrderBy
+    where: $where
+  ) {
+    ...HacktivityList
+    __typename
+  }
+}
+
+fragment HacktivityList on HacktivityItemConnection {
+  pageInfo {
+    endCursor
+    hasNextPage
+    __typename
+  }
+  edges {
+    node {
+      ... on HacktivityItemInterface {
+        id
+        databaseId: _id
+        __typename
+      }
+      __typename
+    }
+    ...HacktivityItem
+    __typename
+  }
+  __typename
+}
+
+fragment HacktivityItem on HacktivityItemUnionEdge {
+  node {
+    ... on HacktivityItemInterface {
+      id
+      type: __typename
+    }
+    ... on Disclosed {
+      id
+      ...HacktivityItemDisclosed
+      __typename
+    }
+    ... on HackerPublished {
+      id
+      ...HacktivityItemHackerPublished
+      __typename
+    }
+    __typename
+  }
+  __typename
+}
+
+fragment TeamLinkWithMiniProfile on Team {
+  id
+  handle
+  name
+  __typename
+}
+
+fragment UserLinkWithMiniProfile on User {
+  id
+  username
+  __typename
+}
+
+fragment HacktivityItemDisclosed on Disclosed {
+  id
+  reporter {
+    id
+    username
+    ...UserLinkWithMiniProfile
+    __typename
+  }
+  votes {
+    total_count
+    __typename
+  }
+  voters: votes(last: $maxShownVoters) {
+    edges {
+      node {
+        id
+        user {
+          id
+          username
+          __typename
+        }
+        __typename
+      }
+      __typename
+    }
+    __typename
+  }
+  upvoted: upvoted_by_current_user
+  team {
+    handle
+    name
+    medium_profile_picture: profile_picture(size: medium)
+    url
+    id
+    ...TeamLinkWithMiniProfile
+    __typename
+  }
+  report {
+    id
+    databaseId: _id
+    title
+    substate
+    url
+    __typename
+  }
+  latest_disclosable_action
+  latest_disclosable_activity_at
+  total_awarded_amount
+  severity_rating
+  currency
+  __typename
+}
+
+fragment HacktivityItemHackerPublished on HackerPublished {
+  id
+  reporter {
+    id
+    username
+    ...UserLinkWithMiniProfile
+    __typename
+  }
+  votes {
+    total_count
+    __typename
+  }
+  voters: votes(last: $maxShownVoters) {
+    edges {
+      node {
+        id
+        user {
+          id
+          username
+          __typename
+        }
+        __typename
+      }
+      __typename
+    }
+    __typename
+  }
+  upvoted: upvoted_by_current_user
+  team {
+    id
+    handle
+    name
+    medium_profile_picture: profile_picture(size: medium)
+    url
+    ...TeamLinkWithMiniProfile
+    __typename
+  }
+  report {
+    id
+    url
+    title
+    substate
+    __typename
+  }
+  latest_disclosable_activity_at
+  severity_rating
+  __typename
+}
+
