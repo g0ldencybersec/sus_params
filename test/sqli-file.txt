@@ -1,0 +1,337 @@
+The vulnerable parameter from the above SQL injection report is MSI_queryType.
+
+The vulnerable parameter in the above SQL injection report is "countID".
+
+The vulnerable parameters in the above SQL injection report are "lname," "userid," and "pw".
+
+The vulnerable parameter is "email".
+
+The vulnerable parameter is "phone".
+
+The vulnerable parameter is "limit".
+
+The vulnerable parameter in the above SQL injection report is `FP_LK_USER_LOGIN`.
+
+The vulnerable parameter in the SQL injection report is **validateemail**.
+
+The vulnerable parameter is `app_id`.
+
+The vulnerable parameter in the SQL injection report is `$YourSiteId`.
+
+The vulnerable parameters are "c" and "m".
+
+The vulnerable parameter from the above SQL injection report is `_itemID=`.
+
+The vulnerable parameter in the above SQL injection report is "city_id".
+
+The vulnerable parameter is **ctx[vars][email]**.
+
+The vulnerable parameter in the above SQL injection report is "search".
+
+The vulnerable parameter in the above SQL injection report is "lang" in the Cookie.
+
+The vulnerable parameter in the above SQL injection report is the url "/pls/apex/f?".
+
+The vulnerable parameters are:
+- scn
+- SUBJECT
+- COURSEID
+
+The vulnerable parameter is `token`.
+
+The vulnerable parameters are:
+
+1. Field names (from 'where' clause object)
+2. Limit/Offset parameters ('skip', 'take' in 'opts' object)
+
+The vulnerable parameter in the above SQL injection report appears to be "Via". This is where the SQL injection payload has been inserted in an attempt to exploit the vulnerability.
+
+The vulnerable parameter in the above SQL injection report is "Database name".
+
+The vulnerable parameter in the above SQL injection report is "uri".
+
+None
+
+The vulnerable parameter is `embedded_submission_form_uuid`.
+
+The vulnerable parameter in the above SQL injection report is "searchST".
+
+The text doesn't provide information about any vulnerable parameters involved in the SQL injection report.
+
+The vulnerable parameter in the above SQL injection report is "Referer".
+
+The vulnerable parameter from the above report is "логин" (login).
+
+The vulnerable parameter is `$_GET['acctid']`.
+
+The vulnerable parameter in the SQL injection report is the URI: http://51.83.253.82/item/default. The parameter is being manipulated to inject SQL commands.
+
+The vulnerable parameter in the above SQL injection report is `c0-param0`.
+
+The text provided does not specify any vulnerable parameters related to an SQL injection report.
+
+The text doesn't provide information about any vulnerable parameters related to a SQL injection report.
+
+The vulnerable parameter in the above SQL injection report is "c" in the library.php file.
+
+The vulnerable parameters are: `$id`, `$limit`, `$order`, `$type`, `$where`, `$serendipity['RSSfetchLimit']`, and `$serendipity['fetchLimit']`.
+
+The vulnerable parameter is "t".
+
+The vulnerable parameters in the above SQL injection report are `fields`, `orderby`, `tableName`, and `id`.
+
+The vulnerable parameter in the above SQL injection report is "new".
+
+The vulnerable parameters are 'username' and 'password'.
+
+The vulnerable parameter in the report is "█████".
+
+The vulnerable parameter in the above SQL injection report is "curID".
+
+The vulnerable parameter in the above SQL injection report is "docId".
+
+The vulnerable parameter here is "ccm_order_by_direction".
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter is "login" (POST).
+
+The vulnerable parameter is ctx[vars][email].
+
+The vulnerable parameter from the above SQL injection report is 'staff_student'.
+
+The vulnerable parameter in the SQL injection report is `historic_user_input`.
+
+The vulnerable parameter is: cfire_sid
+
+The text provided does not include specific information about any vulnerable parameters associated to a SQL injection report.
+
+The vulnerable parameter in the above SQL injection report is the user-controlled input in the CVE Discovery Search.
+
+The vulnerable parameter is: User-Agent
+
+The vulnerable parameter in the above SQL injection report is "doc_id".
+
+The vulnerable parameter is 'id'.
+
+The vulnerable parameter is "order".
+
+The report does not specifically name any vulnerable parameters.
+
+The vulnerable parameter in the above SQL injection report is "log".
+
+The vulnerable parameter from the above SQL injection report is "user_id".
+
+The vulnerable parameter is the POST rnum parameter.
+
+The name of the vulnerable parameter isn't specifically noted in the redactions, making it impossible to provide definitive names at this time.
+
+The vulnerable parameter in the above SQL Injection report is `` PUB_ID ``.
+
+The vulnerable parameter in the above SQL injection report is "fSearchDefaultSortDirection".
+
+The vulnerable parameter is "url".
+
+The vulnerable parameter in the above SQL injection report is "partnerno".
+
+The vulnerable parameter in the SQL injection report is the "Referer".
+
+The report does not provide specific details about the vulnerable parameters involved in the SQL injection.
+
+The vulnerable parameter in the above SQL injection report is *topsort*.
+
+The vulnerable parameter is `:order`.
+
+The vulnerable parameters from the above SQL injection report are:
+
+1. story_id in /display.asp?story_id=98373
+2. x in /listStories.asp?x=4
+3. t in /viewVideo.asp?t=6
+
+The vulnerable parameters in the above SQL injection report are "rcnum" and "content".
+
+The vulnerable parameter is: locId
+
+The vulnerable parameter from the above SQL injection report is "id".
+
+ref
+
+The vulnerable parameter appears to be the "Referer" header.
+
+The vulnerable parameters in the provided SQL injection report appear to be "openid", "appid", "ts", "payitem", "token", "billno", "version", "zoneid", "providetype", "amt", "payamt_coins", "pubacct_payamt_coins", and "sig".
+
+The vulnerable parameter from the above SQL injection report is "MSI_additionalFilterType1".
+
+The vulnerable parameter is "bldID".
+
+The vulnerable parameter in the above SQL injection report is "title".
+
+The text provided does not give specific details about any vulnerable parameters related to a SQL injection report.
+
+None
+
+The vulnerable parameter seems to be the input parameter used in the search box functionality. The exact parameter name is not mentioned in the report.
+
+The vulnerable parameter in the above SQL injection report is "last_step".
+
+The vulnerable parameter in the above SQL injection report is "group_id".
+
+The vulnerable parameter from the SQL injection report is: regId.
+
+The vulnerable parameters are "table", "name_id", and "id".
+
+The vulnerable parameter in the above SQL injection report is `blobwhere`.
+
+The vulnerable parameter in the SQL injection report appears to be "phone_number".
+
+The vulnerable parameters are "phone_number" and "pin".
+
+The vulnerable parameter is: tile ID
+
+The vulnerable parameter is "cid" in the GET request.
+
+The vulnerable parameter from the above SQL injection report is the `search` parameter.
+
+The name of the vulnerable parameter is '███████'.
+
+The vulnerable parameter is "last_content_id".
+
+The vulnerable parameter is "oc:filter-comments.oc:limit#text".
+
+The vulnerable parameter is `query`.
+
+The vulnerable parameters in the SQL injection report are "categoryid[]" and "do".
+
+The vulnerable parameters in this SQL injection report are `crs_id`.
+
+The vulnerable parameter is "groups".
+
+The vulnerable parameter in the above SQL injection report is 'vote' from increments function.
+
+The vulnerable parameter in the above SQL injection report appears to be the search parameter.
+
+The vulnerable parameters in the above SQL injection report are "log" and "pwd".
+
+None
+
+The vulnerable parameter from the above SQL injection report is "rememail".
+
+The vulnerable parameter in the provided SQL injection report appears to be "-1'".
+
+The vulnerable parameters from the above SQL injection report are: 
+
+1. `ConversationID`
+2. `TransientKey`
+3. `hpt`
+
+The vulnerable parameter in this SQL injection report is the URL encoded POST input ███.
+
+None
+
+The vulnerable parameter in the above SQL injection report appears to be the HTTP header 'X-Forwarded-For: ' '. This is the only parameter that got modified in the original request by adding hazardous characters, resulting in the penetration of the application and reaching the SQL query itself which indicates a SQL injection vulnerability.
+
+The vulnerable parameter in the above SQL Injection report is "tournament".
+
+The vulnerable parameter is "city".
+
+The report does not provide specific names of the vulnerable parameters related to the SQL injection.
+
+The vulnerable parameter in the SQL injection report is the **User-Agent** HTTP header.
+
+The vulnerable parameter in the above SQL injection report is $invitationID.
+
+The vulnerable parameter in the above SQL injection report is `res_id`.
+
+The vulnerable parameters in the SQL injection report are `hdnParentID`, and `pages`.
+
+The report does not provide specific names of the vulnerable parameters involved in the SQL injection.
+
+The vulnerable parameter in the SQL injection report is: rememail.
+
+The vulnerable parameter is "fid".
+
+The vulnerable parameter is: req.body.loginEmail
+
+The vulnerable parameter in the above SQL injection report is ":name".
+
+The vulnerable parameter is "last_id".
+
+The vulnerable parameter identified in the report is `███=`.
+
+The vulnerable parameter from the above SQL injection report is the "location" parameter.
+
+None
+
+The vulnerable parameter appears to be the organizations id parameter in the /api/organizations/* API endpoint.
+
+The report does not provide specific names of the vulnerable parameters involved in the SQL injection.
+
+The vulnerable parameter from the above SQL injection report is `pub_group_id`.
+
+The vulnerable parameters in the SQL injection report are `"acctid":"251219"` and `"src":0`.
+
+The vulnerable parameter in the SQL injection report is `Customwho`.
+
+The vulnerable parameter in the above SQL Injection report is `refresh_token`.
+
+The report does not provide specific names of vulnerable parameters related to the SQL injection vulnerability.
+
+The vulnerable parameters in the above SQL Injection report is "order_by" and "order".
+
+The vulnerable parameter in the above SQL injection report is the video's language parameter in the URL (i.e., "/translations/videos/en")
+
+The vulnerable parameters in the SQL injection report appear to be 'usr' and 'pwd'.
+
+The vulnerable parameters in this SQL injection report are "name", "tenant_id", and "unit".
+
+The vulnerable parameter from the above SQL injection report is **selMajcom**.
+
+The vulnerable parameter from the above SQL injection report is the "Username" field.
+
+The vulnerable parameters in the SQL injection report are 'Projection' and 'Selection' in the content://org.nextcloud/ URL. Specifically “run app.provider.query content://org.nextcloud/ --projection "'" could be exploited.
+
+The vulnerable parameter in the above SQL injection report is the `/plugin/tag/` parameter.
+
+The vulnerable parameter in the above SQL injection report is `pub_group_id`.
+
+The vulnerable parameter in the above SQL injection report is ":1".
+
+The vulnerable parameters include the first argument in Issue 1 and the input query in Issue 2. The metadata value in the delete_metadata function is also a vulnerable parameter.
+
+The vulnerable parameter in the SQL injection report is "category".
+
+The vulnerable parameters in the above SQL injection report are:
+
+1. $_POST['multi_layer_map_list']
+2. $_GET['multi_layer_map_list']
+3. $first_mlm_id
+4. $row
+
+The vulnerable parameters from the above SQL injection report are "username" and "password".
+
+The vulnerable parameter in the above SQL injection report appears to be 'v'.
+
+The vulnerable parameter is "from".
+
+The vulnerable parameters are parapa_uid and parapa_sid.
+
+The vulnerable parameters in the above SQL injection report are the SSN field and possibly the birth date.
+
+The vulnerable parameter is "email".
+
+The vulnerable parameter is "Sort".
+
+The vulnerable parameter is "acctid".
+
+The vulnerable parameters are 'limit' and 'offset'.
+
+The vulnerable parameter is 'criteria[startwith]'.
+
+The vulnerable parameter is 'observed-data'.
+
+The vulnerable parameter is 'firstName'.
+
+The vulnerable parameter is 'id'.
+
+The vulnerable parameter in the above SQL Injection report is "email".
+

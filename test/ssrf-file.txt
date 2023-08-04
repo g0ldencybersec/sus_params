@@ -1,0 +1,359 @@
+The vulnerable parameter in the Server Side Request Forgery report is "Download Link area".
+
+The vulnerable parameter in the above Server Side Request Forgery report is "Email".
+
+The vulnerable parameters in the Server Side Request Forgery report are: "Bearer token", "kube-controller-manager", "kubernetes api-server", and "internal endpoints".
+
+The report does not provide specific names of the vulnerable parameters.
+
+1. loc
+2. name
+3. email
+4. username
+5. user_id
+6. _csrf_token
+
+The report does not provide specific names of the vulnerable parameters involved in the Server Side Request Forgery.
+
+The vulnerable parameter in the above Server-Side Request Forgery report is "Referer".
+
+The vulnerable parameter in the Server Side Request Forgery report is `hostname`.
+
+The vulnerable parameter in this SSRF report is the `file` parameter.
+
+The vulnerable parameters in the Server Side Request Forgery report are "source", "url", "start", "stop". These parameters are exploited in the POST request to upload the maliciously crafted playlist.
+
+The report doesn't provide specific details about any vulnerable parameters.
+
+The vulnerable parameters in the above Server Side Request Forgery report are the "Webhook URLs" and "URL host".
+
+The vulnerable parameter is the URL parameter used in the `CarrierWave::Uploader::Base:download!` function. This parameter determines the attachment's address to be downloaded from the FogBugz repository. The other potential vulnerable parameters could be any parameters associated with the potential vulnerabilities listed, such as parameters associated with URL parameter clobbering, unencrypted HTTP API responses, subdomain takeovers, HTTP request smuggling, cache poisoning, SQL injection, or code execution.
+
+The vulnerable parameter in the above Server Side Request Forgery report is "operator".
+
+The vulnerable parameter in the above Server Side Request Forgery report appears to be the URL schema parser logic of the curl library.
+
+The vulnerable parameter in the above Server Side Request Forgery report is the "location" in the PHP header. It is being exploited to redirect to internal resources.
+
+The vulnerable parameter in the Server Side Request Forgery report is "host" in the "admin" block of the notification.servers settings.
+
+The vulnerability report does not specifically mention the name(s) of the vulnerable parameters involved in the Server Side Request Forgery.
+
+The vulnerable parameter in the above Server Side Request Forgery report appears to be: "█████████".
+
+The vulnerable parameter appears to be the "Host" parameter in the malformed HTTP request.
+
+The vulnerable parameter in the Server Side Request Forgery report is "ip".
+
+The vulnerable parameter in the above Server Side Request Forgery report is the server IP address which is `127.0.0.1` in the provided example.
+
+The vulnerable parameter in the above Server Side Request Forgery report is `u`.
+
+The vulnerable parameter is the URL that is used when creating a webhook for a repository on GitLab.com (`http://990.hacker1.xyz`).
+
+The report does not specify any vulnerable parameters.
+
+The text provided does not offer specific details about the Server Side Request Forgery report, including the vulnerable parameters. Therefore, it's impossible to provide their names.
+
+The vulnerable parameter in the SSRF report appears to be the "include" statement in the PlantUML code.
+
+The vulnerability report does not explicitly name any vulnerable parameters.
+
+The vulnerable parameter in the above Server Side Request Forgery report is "hook[token]".
+
+The vulnerable parameter is `ip`.
+
+The vulnerable parameter in the above Server Side Request Forgery report appears to be the docker client in the Shared Runners implementation of Gitlab. It specifically points to a bug that allows for HTTP redirection. If specific parameters are meant in terms of input fields or data being fed into a system, the report does not provide explicit names for these.
+
+The report does not provide specific details about the vulnerable parameter(s) in the Server Side Request Forgery.
+
+The vulnerable parameters in the Server Side Request Forgery report are: "source", "url", "start", and "stop".
+
+The vulnerable parameter in the Server Side Request Forgery report is the file upload parameter.
+
+The report does not provide enough information to identify any vulnerable parameters.
+
+The vulnerable parameters in the above Server Side Request Forgery report appear to be the HTML iframe input in the email template feature and the IP address '63.33.82.168'. Without proper validation or filtering, these could potentially be exploited for malicious activities.
+
+None
+
+None
+
+The vulnerable parameter in the above Server Side Request Forgery report is X-Forwarded-For.
+
+The vulnerable parameter in the Server Side Request Forgery report is "url".
+
+The report does not provide specific names of the vulnerable parameters involved in the Server Side Request Forgery (SSRF).
+
+The vulnerable parameter from the Server Side Request Forgery report is the "url" parameter.
+
+The text provided does not specify any vulnerable parameters.
+
+The vulnerable parameter from the above Server Side Request Forgery report is: url
+
+The vulnerable parameter in the Server Side Request Forgery report appears to be "command" in the disaster scenario URL: http://0.0.0.0:4680/system/command.php?command=[ROOT_COMMAND]
+
+The vulnerable parameter in the Server Side Request Forgery report is the URL "http://169.254.169.254/metadata/v1/".
+
+The vulnerable parameter in the above Server Side Request Forgery report is "url".
+
+The vulnerable parameters from the above Server Side Request Forgery report are:
+1. app_style
+2. staff_id 
+3. avatar 
+4. username
+5. password
+6. challenge
+7. challenge_answer.
+
+The vulnerable parameter in this scenario is the "upload type".
+
+The vulnerable parameter in the above Server Side Request Forgery report is "url".
+
+The vulnerable parameter is "req.body.url".
+
+The vulnerable parameter is "image[attachment]".
+
+The vulnerable parameter in the Server Side Request Forgery report is `?url=`.
+
+The vulnerable parameter in this case appears to be the "Host" parameter in the header of the HTTP/1.1 GET request.
+
+The vulnerable parameter in the Server Side Request Forgery report is "bzIframeUrl".
+
+The report doesn't explicitly mention any vulnerable parameters.
+
+The vulnerable parameter in the given Server Side Request Forgery report is the "subscription" parameter in the POST request.
+
+The vulnerable parameters are: 'X-AnonResource', 'X-AnonResource-Backend', and 'X-BEResource'.
+
+The vulnerable parameter in the Server Side Request Forgery report is 'resize'.
+
+The report does not specify any vulnerable parameters.
+
+url
+
+The vulnerability report does not specify any vulnerable parameters.
+
+The vulnerable parameter in the above Server Side Request Forgery report does not explicitly appear to be mentioned.
+
+URL
+
+The vulnerable parameter in the above Server Side Request Forgery report is **X-Forwarded-Host**.
+
+The vulnerable parameter in the Server Side Request Forgery report is the ```HTML``` input field in the create template section.
+
+FirstName, LastName, Company, Message
+
+The vulnerable parameter is `XOR-PEER-ADDRESS`.
+
+The vulnerable parameter in the above Server Side Request Forgery report is `project[remote_mirrors_attributes][0][url]`.
+
+The vulnerable parameter is "image_host".
+
+The vulnerable parameters in this Server Side Request Forgery report would be all input fields in the career form as the report mentions the hacker being able to inject img tags in all the fields on the form.
+
+The vulnerable parameter is the "SMTP server address".
+
+The vulnerable parameter in the Server Side Request Forgery report isn't explicitly named. However, the issue seems to stem from the chat or messenger box feature on the website where the Burp Collaborator URL is pasted and sent.
+
+The vulnerable parameter is the URL/IP input field in the 'Add remote files' function.
+
+None
+
+The vulnerable parameter in this report is "masterUrl".
+
+None
+
+The text provided doesn't give specific details about the vulnerable parameters. Hence, it's not possible to identify any from the information provided.
+
+The vulnerable parameter in the Server Side Request Forgery report is "test_url".
+
+The text given does not provide specific details about the Server Side Request Forgery report, including the vulnerable parameters. Therefore, I can't identify any.
+
+The vulnerable parameter in the Server Side Request Forgery report appears to be "images".
+
+The vulnerable parameter in the above Server Side Request Forgery report is `API URL`.
+
+The vulnerable parameter is "image_host".
+
+unix
+
+The vulnerable parameter is `:hash`.
+
+The report does not provide specific details about the vulnerable parameters involved in the Server Side Request Forgery.
+
+The report does not mention any vulnerable parameters.
+
+The vulnerable parameter in the Server Side Request Forgery report is the "datajson_url".
+
+The vulnerable parameters identified are: 
+
+1. "resturl" parameter in the StorageClass metadata in the YAML payload.
+2. StorageClass "resturl" parameter payload for HTTP smuggling attack + CRLF during provisioning step.
+
+The vulnerable parameter in the above Server Side Request Forgery report is `import_url`.
+
+The vulnerable parameter in the Server Side Request Forgery report appears to be the URL.
+
+The vulnerable parameter in the Server Side Request Forgery report is the Domain parameter used in the REST based URL "https://icons.bitwarden.net/{DOMAIN-HERE}/icon.png".
+
+The text provided does not mention any vulnerable parameters related to a Server Side Request Forgery report. Therefore, it can be concluded that there are none given in the information provided.
+
+The vulnerable parameters are "url", "custom", and "template".
+
+The vulnerable parameter in the above Server Side Request Forgery report is `sieveHost`.
+
+The vulnerable parameters in the above Server Side Request Forgery report are `imapHost` and `imapPort`.
+
+The report does not specifically mention any vulnerable parameters.
+
+The vulnerable parameter appears to be the "LRS URL".
+
+The vulnerable parameter in the above Server Side Request Forgery report is "name" within the json object "globalInfo".
+
+The text provided does not give specific details about the vulnerable parameters in the Server Side Request Forgery report.
+
+The vulnerable parameters in the above Server Side Request Forgery report are URL domain, hostname, port, and localhost in the GitLab::UrlBlocker validation code.
+
+The vulnerable parameter in the Server Side Request Forgery report is not explicitly mentioned.
+
+The report does not provide specific names of the vulnerable parameters involved in the Server Side Request Forgery attack.
+
+The vulnerable parameter in the above Server Side Request Forgery report is `fill`.
+
+The vulnerable parameter in the Server Side Request Forgery report is the proxy string (`http://example.com%2F127.0.0.1`).
+
+The vulnerable parameter seems to be the `url` parameter in the GET request. The application does not correctly validate or sanitize the `url` parameter, allowing for Server Side Request Forgery. If this is not correctly identified or if no vulnerability exists, then there would be none.
+
+The vulnerability report does not specify any explicit vulnerable parameters. However, the URL parameter in the location header seems to be susceptible to manipulation.
+
+The report does not explicitly name any vulnerable parameters.
+
+The vulnerable parameter is "data".
+
+The vulnerable parameter in the above Server Side Request Forgery report is the `Location` header.
+
+The vulnerable parameter in the given Server Side Request Forgery report is "url".
+
+The vulnerable parameters are `:code`, `:client_id`, and `:client_secret`.
+
+The vulnerable parameters are:
+
+1. user_id
+2. name
+3. _csrf_token
+4. data in the javascript file
+5. src attribute in the script tag
+
+The report doesn't provide specific details on the vulnerable parameters related to the Server Side Request Forgery issue.
+
+The vulnerable parameter is "link".
+
+The report does not specify any vulnerable parameters.
+
+The vulnerable parameters are not explicitly stated in the report.
+
+The vulnerable parameters include: 
+- `start`
+- `two`
+- `switch`
+- `three`
+- `header`
+- `template`
+- `username`
+- `staff_id`
+- `url`
+- `name`
+
+The vulnerable parameters in the Server Side Request Forgery report are:
+
+- The URL parameter in the clientConfig of the ValidatingWebhookConfiguration in poc1.yaml file.
+- The 'redirect' function in the index method of the Flask app.
+- `kube-apiserver`'s log-dir and logtostderr options in `kube-apiserver.yaml`.
+
+The report does not provide specific names of any vulnerable parameters.
+
+url
+
+url
+
+The report does not provide specific information about the vulnerable parameters.
+
+The vulnerable parameter in the above Server Side Request Forgery report is "Event Subscriptions".
+
+The vulnerable parameter is "tag".
+
+The report does not explicitly name any vulnerable parameters.
+
+The vulnerable parameter in the above Server Side Request Forgery report is the URL parameter in the `/api/v1/media/import` request.
+
+The vulnerable parameter is `x_url_callback`.
+
+The vulnerable parameter in the above Server Side Request Forgery report is the link or URL that is passed to the system for file downloading.
+
+None
+
+The vulnerable parameters in the above Server Side Request Forgery report are `remote_attachment_url` and `remote_attachment_request_header`.
+
+The vulnerable parameter in the above Server Side Request Forgery report is the URL parameter.
+
+The vulnerable parameter in the Server Side Request Forgery report is the "filename" parameter.
+
+The report does not provide specific details about the vulnerable parameters involved in the Server Side Request Forgery.
+
+The vulnerable parameters are not explicitly mentioned in the report. However, from the explanation provided, the domain name used in the URL added to a new credential appears to have a significant role in this SSRF vulnerability.
+
+The vulnerable parameter in the above Server Side Request Forgery report is the URL parameter in the xml payload received by the "/xmlrpc/pingback/" handler.
+
+The vulnerable parameters are 'jabber server' and 'Jabber port'.
+
+The report does not provide specific details on the vulnerable parameters pertaining to the Server-Side Request Forgery. Therefore, the answer is none.
+
+The text provided does not give specific detail on the vulnerable parameter(s) in the Server Side Request Forgery report.
+
+The vulnerable parameter in the Server Side Request Forgery report is the "filename" parameter.
+
+The vulnerable parameter in the above Server Side Request Forgery report is the HTML tag parameter in the `Edit packing slip template` feature.
+
+The vulnerable parameters in the above Server Side Request Forgery report are the Host headers for the subdomains (mesh.urbancompany.com, av.urbancompany.com, ims.urbancompany.com) of the main site (www.urbancompany.com).
+
+The vulnerable parameter in the Server Side Request Forgery report is the "url" parameter.
+
+The vulnerable parameter is the webhook URL.
+
+The vulnerable parameter in the above Server Side Request Forgery report is the endpoint URL (`https://A.178.62.122.208.1time.127.0.0.1.1time.repeat.rebind.network/webhook5`) that is being added as an external web-hook.
+
+The vulnerable parameter in the above Server Side Request Forgery report is "Host".
+
+The vulnerable parameter in this Server Side Request Forgery report is the "name" parameter in the HTTP POST request to `http://localhost:8474/proxies`. This parameter is used to configure, start, and modify arbitrary proxies without any CSRF protections in the "Toxiproxy" tool.
+
+The vulnerable parameter in this Server Side Request Forgery report is "q".
+
+The vulnerable parameter in the above Server Side Request Forgery report is the "url" parameter in the GET request.
+
+The vulnerable parameter is `smtpHost`.
+
+The vulnerable parameter here is the URL.
+
+None
+
+The report does not mention any specific vulnerable parameter names.
+
+The vulnerable parameters in the above Server Side Request Forgery report are:
+
+1. "url" in the "Slack commands" section.
+
+2. "phabricator_url" in the "Phabricator" section.
+
+The vulnerable parameter in the above Server Side Request Forgery report is "source".
+
+The vulnerable parameter in the Server Side Request Forgery report is the "integration endpoint".
+
+The vulnerable parameter in the Server Side Request Forgery report appears to be the "url" parameter in "/ghost/api/v3/admin/oembed/?url=http://169.254.169.254/metadata/v1.json&type=embed".
+
+The report doesn't provide specific details about the vulnerability, including the parameters involved. So, it can be said that none exist based on the provided information.
+
+The vulnerable parameter in the Server Side Request Forgery report appears to be the "URL" which the user provides when pulling an existing repository from GitHub.
+
+The vulnerable parameter in this Server Side Request Forgery report is the "javascript" parameter in the GET request 'https://qiwi.com/?javascript=window.prerenderData=window.location.replace%28%22http%3a%2f%2frytiogvgz2oh53enbt9rxuwmpdv4jt.burpcollaborator.net%2f%22%29'.
+

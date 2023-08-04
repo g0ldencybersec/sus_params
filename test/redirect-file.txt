@@ -1,0 +1,481 @@
+The vulnerable parameter in the above Open Redirect report is "url".
+
+The vulnerable parameter in the above Open Redirect report is "fallback".
+
+The vulnerable parameter in the above Open Redirect report is "url" in https://reviewnic.com/redirect.php?url=http://bing.com.
+
+The report does not specifically mention the name of any vulnerable parameters.
+
+The vulnerable parameters in the above Open Redirect report are "referrer" and "full_number".
+
+The vulnerable parameter is `return_url`.
+
+The vulnerable parameters in the Open Redirect report are `prejoin_data` and `weg_digest`.
+
+The report does not provide specific vulnerable parameters.
+
+None
+
+The vulnerable parameter in the above Open Redirect report is "post_logout_redirect_uri".
+
+The URL itself appears to be the vulnerable parameter in this case, as it allows for an open redirect.
+
+The vulnerable parameter in the Open Redirect report is "redirecturl".
+
+The vulnerable parameter in the above Open Redirect report is the URL "https://twitter.com/i/flow"
+
+The vulnerable parameter in the above Open Redirect report is "subject".
+
+Website URL
+
+The report does not explicitly mention the name of the vulnerable parameter.
+
+None
+
+The vulnerable parameter is "next".
+
+The vulnerable parameter from the Open Redirect report is `l`.
+
+The vulnerable parameter appears to be "redirect_uri".
+
+The vulnerable parameter in the above Open Redirect report is:
+
+>X-FORWARDED-HOST
+
+The vulnerable parameter in the Open Redirect report is `frame-src data:`.
+
+The vulnerable parameter in the Open Redirect report appears to be the URL: https://www.uber.com/en//example.com/
+
+return_to
+
+The vulnerable parameters in the above Open Redirect report are not explicitly named.
+
+origin
+
+None
+
+The vulnerable parameter is the monitor name textbox.
+
+The vulnerable parameter is `continue[to]`.
+
+The vulnerable parameters are "redirect_uri" and "client_id".
+
+The vulnerable parameter in the above Open Redirect report is the 'organization name'.
+
+The vulnerable parameter in this Open Redirect report is "redirect".
+
+The vulnerable parameter is `$_GET['goto']`.
+
+The report does not provide specific details on the vulnerable parameter(s) related to the Open Redirect issue.
+
+The vulnerable parameter in the above Open Redirect report is "logout".
+
+The vulnerable parameter in the above Open Redirect report is "to".
+
+The vulnerable parameter is: return_to
+
+The vulnerable parameter in the above Open Redirect report is the "Host" header.
+
+The vulnerable parameter in the above Open Redirect report is "user_provided_redirect_uri".
+
+The vulnerable parameter is `URL`.
+
+The vulnerable parameter in the above Open Redirect report is "redirect_url".
+
+The vulnerable parameter is: u=
+
+The vulnerable parameter is "return_to".
+
+The vulnerable parameters in the above Open Redirect report are `return_url` and `theme_id`.
+
+The vulnerable parameter is "redirect_uri".
+
+The vulnerable parameter is "install_app[Select a store]".
+
+None
+
+The vulnerable parameter in the given Open Redirect report is `e`.
+
+return_path
+
+The vulnerable parameter here is "Host".
+
+The vulnerable parameters in the Open Redirect report are the URL parameters "u" in the Facebook link and "url" in the Google link. They allow an attacker to enter a harmful website, thus leading to redirection to the said website.
+
+The vulnerable parameter in the Open Redirect report is "redirectUri".
+
+The vulnerable parameters in the above Open Redirect report are "redirect_uri" and "scope".
+
+none
+
+The vulnerable parameter is "index.php"
+
+None
+
+None
+
+The vulnerable parameters are **message** and **redirect**.
+
+The vulnerable parameter in the Open Redirect report is "return_to".
+
+The vulnerable parameter in the above Open Redirect report is "next".
+
+return_to
+
+url
+
+The vulnerable parameter in the above Open Redirect report is "apikeyrefresh".
+
+The vulnerable parameter is `prejoin_data`.
+
+The vulnerable parameter is: feed-stats-url
+
+The vulnerable parameter is "email".
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the above Open Redirect report is "redirection_url".
+
+The vulnerable parameter in the above Open Redirect report is `return_url`.
+
+authenticity_token
+
+The vulnerable parameter in the above Open Redirect report is the "Referer" header.
+
+The vulnerable parameter in the above Open Redirect report is "hostname".
+
+The vulnerable parameter is "return_to".
+
+The vulnerable parameter in the above Open Redirect report is the URL parameter in the path of `https://www.vendhq.com/`.
+
+The vulnerable parameter in the Open Redirect report is "redirect_to".
+
+The vulnerable parameter in the Open Redirect report above is the Location header in the HTTP response.
+
+The vulnerable parameter is `return`.
+
+The vulnerable parameter in this report is the X-Forwarded Host Header.
+
+The vulnerable parameter in the Open Redirect report is "url".
+
+The vulnerable parameter is "?ref_udr=".
+
+The vulnerable parameter is "link".
+
+The vulnerable parameter in the Open Redirect report is "failed=". This is where the bypass was added with "//evil.com".
+
+The vulnerable parameter in the above Open Redirect report is "redirect_url".
+
+The vulnerable parameter here is '#/path'. This is the parameter that is triggering the redirection in the provided URL.
+
+index.php
+
+The vulnerable parameter in the Open Redirect report is the IP address `216.58.217.206/[param]` after the double slash `//`.
+
+return_to
+
+None
+
+The report doesn't explicitly mention any vulnerable parameters.
+
+url
+
+The vulnerable parameter is not explicitly mentioned in the report.
+
+The report doesn't specify any vulnerable parameters.
+
+None
+
+The vulnerable parameter in the above Open Redirect report is `r`.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the above Open Redirect report is `return_to`.
+
+_state_, _redirect_uri_, _access_token_
+
+asset
+
+u=<redirect_site>
+
+The vulnerable parameters are dest, oadest, and ct0.
+
+The vulnerable parameter is "next=".
+
+The vulnerable parameter in the above Open Redirect report is the domain name used as html filename on server.
+
+return_to
+
+The vulnerable parameters in the above report are "password reset email" and "Account verification in email".
+
+The vulnerable parameter in the Open Redirect report is *callback_url*.
+
+The vulnerable parameter in the above Open Redirect report is "window.opener".
+
+The vulnerable parameter in this Open Redirect report is "host".
+
+The report does not provide specific names of the vulnerable parameters.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the above Open Redirect report is "url".
+
+The vulnerability report does not provide specific parameter names. They are usually after a "?" or "&" in the URL. Therefore, based on the provided information, the answer is none.
+
+The vulnerable parameter in the Open Redirect report is "authorize_callback".
+
+Host
+
+The vulnerable parameter is: redirect_to
+
+Host
+
+None
+
+The vulnerable parameter is "continue".
+
+The vulnerable parameters are "job_application[resume_url]" and "job_application[cover_letter_url]".
+
+The vulnerable parameters are `return_url` and `checkout_url`.
+
+The vulnerable parameter is `[[jumpuri:https://pixiv.net/ > https://i3mx4usociis8twimpcu2ty0erkh86.burpcollaborator.net/abc]]`.
+
+None
+
+The vulnerable parameter in the above Open Redirect report is the URL "http://www.hackerone.com/index.php/index.php.evil.com" and "https://www.hackerone.com/index.php/index.php.evil.com". It's being manipulated to redirect users to a malicious site.
+
+return_to
+
+The vulnerable parameter in the above Open Redirect report is `some_param`.
+
+The vulnerable parameter is `$_GET['url']`.
+
+The vulnerable parameter in the report is `target="_blank"`.
+
+None
+
+The vulnerable parameter in the above Open Redirect report is "forum_reg".
+
+The vulnerable parameter in the above Open Redirect report is the "Host".
+
+The vulnerable parameter in the above Open Redirect report is: state.
+
+The vulnerable parameter in the above Open Redirect report is `next`.
+
+The vulnerable parameter in the above Open Redirect report is the URL Rewrite.
+
+None
+
+The vulnerable parameter is `origin`.
+
+origin
+
+The vulnerable parameter in this Open Redirect report is "redir".
+
+The report does not provide specific vulnerable parameters.
+
+The vulnerable parameter is "wp_http_referer".
+
+The vulnerable parameter in the above Open Redirect report is the report link: (https://example.com")
+
+The vulnerable parameters in the above Open Redirect report could be "screen_name" and "user_id".
+
+redirect_uri
+
+The vulnerable parameter here is the target="_blank".
+
+None
+
+The vulnerable parameter in the Open Redirect report is "redirect_to".
+
+The vulnerable parameter in the Open Redirect report is the "Referer" header.
+
+The vulnerable parameter in the above Open Redirect report is "domain_name".
+
+The vulnerable parameter is `query`.
+
+The report does not explicitly mention any vulnerable parameters.
+
+The report does not specify the name of the vulnerable parameters involved in the Open Redirect issue.
+
+next
+
+The vulnerable parameter is "origin".
+
+The vulnerable parameter in the above Open Redirect report is "host".
+
+The vulnerable parameter is 'retURL'.
+
+The vulnerable parameter in the Open Redirect report is the "url" parameter in the redirect URLs.
+
+The vulnerable parameter from the above Open Redirect report is "result_url".
+
+The vulnerable parameter is the "last name".
+
+First Name
+
+The vulnerable parameter in the Open Redirect report is the hyperlink to "http://burp".
+
+The vulnerable parameter from the above Open Redirect report is `location`.
+
+The vulnerable parameter in this Open Redirect report is "image".
+
+None
+
+unsafe_link
+
+The vulnerable parameter in the above Open Redirect report seems to be the URL.
+
+return_to
+
+The report doesn't specify any vulnerable parameters.
+
+The vulnerable parameter in the report is `requestTokenAndRedirect`.
+
+Host
+
+The vulnerable parameter in the Open Redirect report is "return_url".
+
+The vulnerable parameter in the above Open Redirect report is "next".
+
+The vulnerable parameter in the above Open Redirect report is **shop**.
+
+None
+
+none
+
+The vulnerable parameter in the above Open Redirect report is "debugEn%xabled=true".
+
+The vulnerable parameter in the above Open Redirect report is the URL: 
+```
+https://keybase.io//www.google.com/%2f%2e%2e
+```
+
+The vulnerable parameter in this report is the lack of a sandbox attribute in the iframe pointing to codesandbox.
+
+shop, return_to
+
+The vulnerable parameter in the Open Redirect report appears to be "failed". This is where the external URL is injected.
+
+The vulnerable parameter in the above Open Redirect report is "redir".
+
+The vulnerable parameter is "url".
+
+The vulnerable parameter in the Open Redirect report is `r`.
+
+url
+
+The vulnerable parameter is "origin".
+
+The vulnerable parameter in the above Open Redirect report is 'X-Forwarded-Host'.
+
+The vulnerable parameter here is the `href` attribute in the `<a>` tag.
+
+contrast
+
+The vulnerable parameter is "next".
+
+The vulnerable parameter in the Open Redirect report is: "file"
+
+None
+
+The vulnerable parameter is "url".
+
+The vulnerable parameter in this open redirect report appears to be the URL following the domain "crm.unikrn.com".
+
+Target
+
+succUrl
+
+The vulnerable parameter is `next`.
+
+The vulnerable parameter in the Open Redirect report is X-Forwarded-Host.
+
+The vulnerable parameters in the provided report are 'ip', 'port', and 'path'.
+
+The vulnerable parameter in the above Open Redirect report is "failed".
+
+None
+
+The vulnerable parameter in the above Open Redirect report is `redirect_uri`.
+
+The URL itself is the vulnerable parameter in this Open Redirect report. The domain "users.whisper.sh" is improperly processing URLs which allows for open redirection.
+
+The vulnerable parameter in the Open Redirect report appears to be the URL parameter in the server request made to "dev.twitter.com".
+
+redirect_url
+
+None
+
+The vulnerable parameter in the Open Redirect report is "u".
+
+The vulnerable parameter in the above Open Redirect report is "sub_link".
+
+The vulnerable parameter in the above Open Redirect report is the Domain-level redirects.
+
+The vulnerable parameter in the above Open Redirect report is "redirect_uri".
+
+The vulnerable parameter in the above Open Redirect report is "a'".
+
+The vulnerable parameter in the Open Redirect report appears to be "url".
+
+The vulnerable parameter in the above Open Redirect report is: `http://localhost:3000//google.com/%2e%2e`
+
+The vulnerable parameter from the above Open Redirect report is ```ref_url```.
+
+None
+
+checkout_url
+
+redirect_uri
+
+dmr_refresh
+
+The vulnerable parameter in the above Open Redirect report is "returnTo".
+
+The vulnerable parameter in this Open Redirect report is "X-Forwarded-Host".
+
+The vulnerable parameters in the Open Redirect report are: "TS0159a426_id", "TS0159a426_cr", "TS0159a426_76", "TS0159a426_86", "TS0159a426_md", "TS0159a426_rf", "TS0159a426_ct", "TS0159a426_pd".
+
+The vulnerable parameter in the Open Redirect report is "url=".
+
+email, remember_me
+
+window.opener
+
+The vulnerable parameter in the above Open Redirect report is `continue`.
+
+The vulnerable parameter in this case is the linked URL (https://github.com/kddeisz/bundler-console) that directs users to the compromised Github repository.
+
+The report does not provide specific names of the vulnerable parameters related to the Open Redirect issue.
+
+The vulnerable parameter is "&noredirect=".
+
+The vulnerable parameter in the Open Redirect report is the API key found in the url.
+
+The vulnerable parameters are **scope** and **redirect_uri**.
+
+The vulnerable parameter in the above Open Redirect report is "redirectUrl".
+
+The vulnerable parameter in the report is the URL.
+
+The vulnerable parameter in the above Open Redirect report is "next".
+
+None
+
+The vulnerable parameter in this redirect report is the URL insertion within the dashboard note.
+
+The vulnerable parameter in this report is the "learn more here" link that points to the expired domain.
+
+The vulnerable parameters in the above Open Redirect report are "redirect_url", "user", and "token".
+
+The vulnerable parameter in the above Open Redirect report is "recipient".
+
+The vulnerable parameter in the above Open Redirect report is "Host".
+
+The vulnerable parameter is "next".
+
+None
+
+The vulnerable parameter is "continue".
+

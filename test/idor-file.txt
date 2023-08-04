@@ -1,0 +1,309 @@
+The vulnerable parameters in the described IDOR report are "platformUserId" and "offerId".
+
+The vulnerable parameter in the above IDOR report is the message ID (`4423007`).
+
+The vulnerable parameter in the above IDOR report is `id`.
+
+The vulnerable parameters in the above IDOR report are "user_id" and "id".
+
+The vulnerable parameters are "selectedAddressId" and "delivery_subzone".
+
+The vulnerable parameter is "TbPin".
+
+The vulnerable parameter in the above IDOR report is "data-id".
+
+The vulnerable parameters in the above IDOR report are:
+
+1. ORG-UUID
+2. API-UUID
+3. Create_Req
+4. Cookies of the attacker.
+
+The vulnerable parameter in the above IDOR report is: `<ID>`
+
+The vulnerable parameter in the above IDOR report is the `file` parameter.
+
+The vulnerable parameter in the above IDOR report is "transcriptId".
+
+The vulnerable parameters from the above IDOR report are UserUuid, email, role, defaultMailboxUuid, mailboxUuids, signature, timezone, defaultSendAndResolve, selectFirstConversation.
+
+The vulnerable parameter in the report is the numerical ID ("x").
+
+The vulnerable parameters in the above IDOR report are:
+
+1. The URL that links to the shop's detail page (https://partners.shopify.com/629528/stores/21360565).
+2. The "Transfer store to client" link.
+
+The vulnerable parameters in the above IDOR report are: "label_ids", "Label_ID", and "labelID".
+
+The vulnerable parameter in the above IDOR report is `external_status_check_id`.
+
+The vulnerable parameters in the above IDOR report are PID and RNo.
+
+The vulnerable parameters in the above IDOR report are `program_id`, `swag_id` and `sent`.
+
+The vulnerable parameter in the above IDOR report is: YOURACCOUNTNUMBER.
+
+The vulnerable parameters are `PackageID` and `ID`.
+
+The vulnerable parameter in the above IDOR report is `steamid`.
+
+The vulnerable parameters in the above IDOR report are: "firstName", "lastName", and "email".
+
+The vulnerable parameter in the above report is "calendar_id."
+
+The vulnerable parameter is: nTwsUserScorecard.Template=
+
+The vulnerable parameter in the above IDOR report is the username in the request URL (https://liberapay.com/~107258/). By changing this username in the request, one can view the income history of other users.
+
+The vulnerable parameters are userId and Email.
+
+The vulnerable parameter is `hidBlogID`.
+
+The vulnerable parameter in the provided idor report is the "username".
+
+The vulnerable parameters in this report are `ASP.NET`, `.aspx`, `.ashx`, and the `/membership/` URLs.
+
+The vulnerable parameters in the above IDOR report are "link_id" and "GUID".
+
+The vulnerable parameter in the idor report is "ticket/view/" after which the ticket number can be manipulated to view other individual's conversations with the support team.
+
+The vulnerable parameter in the above IDOR report is "report_ids[]".
+
+The report does not provide specific names for the vulnerable parameters. However, it mentions a parameter that when modified results in different applications being returned. The exact name of this parameter is redacted as "███████".
+
+The vulnerable parameter in the above IDOR report is "subredditName".
+
+The vulnerable parameters in this report are "id" and "email".
+
+The vulnerable parameter in the above IDOR report is `accounts=`.
+
+The vulnerable parameter is "organization".
+
+The vulnerable parameter in the above idor report is the "order ID".
+
+The vulnerable parameters are `sessionId` and `gid://shopify/ShippingLabel/` object id.
+
+The vulnerable parameter in the above IDOR report is the User notification channel for the “admin@newrelic.com” user.
+
+The vulnerable parameter in the above IDOR report is "USERID".
+
+The vulnerable parameter in the above IDOR report appears to be the ID at the end of the URL (71712).
+
+The vulnerable parameter in the above IDOR report is the URL parameter.
+
+The vulnerable parameter in the above IDOR report is 'campaignId'.
+
+The vulnerable parameter in the idor report is the UID parameter.
+
+The vulnerable parameters in the above IDOR report are "master_id" and "profile_id" in the delete request and "user_id" in the user account details retrieval request.
+
+The vulnerable parameter in the above IDOR report is "id".
+
+The vulnerable parameter in the above IDOR report is `boardId`.
+
+The vulnerable parameter in the above IDOR report is 'cnvID'.
+
+The vulnerable parameter in the above IDOR report is `user_id`.
+
+The vulnerable parameter in the above IDOR report is `comment_id`.
+
+The vulnerable parameters in the above IDOR report are "UID2" and "userName".
+
+The vulnerable parameters in the above idor report are "folder ID", "projection field", "count", "is_match", and "user_id".
+
+The vulnerable parameters are:
+
+1. userId
+2. projectName
+3. projectId
+
+The vulnerable parameter in the above IDOR report is `customer%5Buid%5D`.
+
+The vulnerable parameter in the above IDOR report is Custom Field Values.
+
+The vulnerable parameter in the above IDOR report is "name".
+
+The vulnerable parameters in the above IDOR report are: 
+
+- gidcomment
+- sessionid
+- extended_data
+- feature2
+
+The vulnerable parameter is `hackathons`.
+
+The vulnerable parameters in the above IDOR report are: "contributor id", "file id", "app id", "extended_data", and "count".
+
+The vulnerable parameter in the above IDOR report is __hacker_username__.
+
+None
+
+The vulnerable parameter in the above idor report is 'personId'.
+
+The vulnerable parameters in the above IDOR report are:
+
+1. REGISTRATION_ID
+2. ATTACHMENT_ID
+
+The vulnerable parameter in the above IDOR report is "checkout_ari".
+
+None
+
+The vulnerable parameter in this report is "poll_id".
+
+The vulnerable parameter in the above IDOR report appears to be the full name of the added user.
+
+The vulnerable parameter in the above idor report is "userId".
+
+None
+
+The vulnerable parameters are:
+
+1. `access_token` in the first request, where a low privileged user's Shopify ping access token is supplied.
+2. `id` in the first request, where a high privileged user's staff member id can be supplied by an attacker.
+3. `Authorization` in the third request, where a high privileged user's KITCRM authorization token can be supplied.
+
+The vulnerable parameters in the above idor report are "draft_id", "attachment_ids", "tracer", "attachable_id", "handle", "uploaded_by_id", and "attachable_type".
+
+local_message_id
+
+The report does not explicitly mention the name of any vulnerable parameter(s).
+
+The vulnerable parameter in the above IDOR report is "vendorIds".
+
+The vulnerable parameter in this case is the "ID" of the uploaded attachment.
+
+The vulnerable parameter is `cur`.
+
+The vulnerable parameter in the above report appears to be the "price" of the product.
+
+The vulnerable parameter in the above IDOR report is "UID2".
+
+The vulnerable parameter is `site`.
+
+The vulnerable parameters in the above IDOR report are "id" and "token".
+
+The vulnerable parameter in the above IDOR report is "user_id".
+
+The vulnerable parameter in the above IDOR report is "team_member_id".
+
+The vulnerable parameters in the above idor report are:
+
+- userName
+- originalEmail
+- Email
+- RecoveryEmail
+- RequesteeId
+
+The vulnerable parameter is `parent_id`.
+
+The vulnerable parameter from the above idor report is `actionable[]`.
+
+The vulnerable parameters in the idor report are:
+
+1. issue_ids
+2. merge_request_ids
+3. note_ids
+4. board_ids
+
+The vulnerable parameter is `discardDraftId`.
+
+The vulnerable parameter in the above IDOR report is the user ID (0ff7e9f9-877a-40cc-b99f-f6b3b1bea3f8).
+
+The vulnerable parameter in the above IDOR report is USERID.
+
+The vulnerable parameter in the above IDOR report is `dashboard_id`.
+
+The vulnerable parameters in the above idor report are txtAmount, amount, txtCustomAmount, and vpc_Amount.
+
+"id"
+
+The vulnerable parameter is `vend_register%5Boutlet_id%5D`.
+
+The vulnerable parameter in the above IDOR report is `"monitor_id"`.
+
+The vulnerable parameter in the above report is "phone".
+
+The vulnerable parameter from the above IDOR (Insecure Direct Object References) report is "userId".
+
+The vulnerable parameters in the above idor report are "user_id" and "team_id".
+
+The vulnerable parameter in the above idor report is the ID of the thread.
+
+The vulnerable parameters are "id" and "domain_id".
+
+The vulnerable parameter in the above IDOR report is "senderEmail".
+
+The vulnerable parameters in the above report are `secret` and `file name`.
+
+The vulnerable parameter in the above IDOR report seems to be the `id` used in the URL endpoint `https://████=[id]`.
+
+The vulnerable parameter is the ID in the GET request (/listings/hackeronevg1110/shop_screenshots/85952).
+
+The vulnerable parameter in the idor report is the ID associated with the comments.
+
+The vulnerable parameter in the above IDOR report is "__orderKeys__".
+
+The vulnerable parameters are "id", "uuid", and "embedded_submission_form_uuid".
+
+The vulnerable parameter in the above IDOR report is `photo_ids`.
+
+The vulnerable parameter in the above IDOR report is "data-id".
+
+The vulnerable parameters in the above IDOR report are `team_id` and `vpn_suspended`.
+
+None
+
+The vulnerable parameters in the above IDOR report are "VendorId" and "VendorPersonProfileId".
+
+The vulnerable parameter in the above IDOR report is "message".
+
+The vulnerable parameter in the request is `contentUrn`.
+
+The vulnerable parameter in the report is the "id" in the URL.
+
+The vulnerable parameter in the above idor report is "issue_ids" within the "attributes".
+
+The vulnerable parameters are "username" and "id".
+
+The vulnerable parameters in the above IDOR report are `ID`, `Email`, and `username`.
+
+ID
+
+The vulnerable parameters are `application[id]` and `authenticity_token`.
+
+The vulnerable parameter is `responder_user_id`.
+
+The vulnerable parameter is "username".
+
+The vulnerable parameter in the above IDOR report is `media_code`.
+
+The vulnerable parameter in the above IDOR report is "issue".
+
+The vulnerable parameter is "email" in the POST body.
+
+The vulnerable parameter is "settings_for_low_stock_variants".
+
+None
+
+The vulnerable parameters are 'fsd_profile' and 'skill id'.
+
+The vulnerable parameter in the above IDOR report is `███Id`.
+
+The vulnerable parameter in the above idor report is "uuid".
+
+The vulnerable parameter in the above idor report is "subscription_id".
+
+filename
+
+Target_id, search_id
+
+None
+
+id
+
+The vulnerable parameter in the above idor report is the file ID in the file link (https://app.mavenlink.com/attachments/xxxxxxxx).
+
+The vulnerable parameter in the above idor report is █████████=.
+

@@ -1,0 +1,367 @@
+The vulnerable parameter is not explicitly mentioned in the report.
+
+The vulnerable parameter is not explicitly named in the report. However, the vulnerability seems to be in how the server handles the request path.
+
+The vulnerable parameter in the above vulnerability report seems to be `../`.
+
+The vulnerable parameter from the above vulnerability report is `file`.
+
+The vulnerable parameter in the above vulnerability report is the GET request.
+
+user, pass
+
+The vulnerable parameter in the above file vuln report is not explicitly named, but it would be the user-supplied input in the content of the markdown file being converted to PDF.
+
+The vulnerable parameter in the report is "token" found in the cookie header of the HTTP GET request.
+
+The vulnerable parameter in the URL seems to be "lang" as it is where the directory traversal payload (`../`) is inserted.
+
+The vulnerable parameter is `pathname`.
+
+The vulnerability report does not explicitly mention any vulnerable parameters.
+
+The vulnerable parameter in the report is the HTTP URL.
+
+The vulnerable parameter is `destination_dir`.
+
+The vulnerable parameter is the url.
+
+The vulnerable parameter is `this.filePath`.
+
+The vulnerable parameter appears to be the HTTP URL.
+
+-WWW, -HTTP
+
+The vulnerable parameter in the report is the URL in HTTP requests processed by an affected device.
+
+editorImpl
+
+The vulnerable parameter is the path name of the url.
+
+arg[0]
+
+url
+
+The vulnerable parameter in this report is the user-submitted variable used in the getStatic function of the ponse module, which is manipulated in a path traversal attack.
+
+The vulnerable parameter is `targetPath`.
+
+The vulnerable parameter in the file vulnerability report is the "url" parameter.
+
+The vulnerable parameter is `req.uri.pathname`.
+
+The vulnerable parameter in the above file vulnerability report is: req.params.id
+
+The vulnerabilities are present in the parameters related to the endpoints "/WEB-INF/web.xml" and "/s/".
+
+The vulnerable parameter in the file vuln report is `bFilename`.
+
+The vulnerable parameters in this case appear to be `SymbolicLink` in the `isSymlink` function in the `extract.js` file.
+
+The vulnerable parameter is `path`.
+
+The vulnerability doesn't lie in a specific parameter but in the way the system handles/decodes URL encoding. The '%252f' is URL-encoded twice version of '/', this allows an attacker to bypass some security mechanisms and read system files like '/etc/passwd'. So, there isn't a vulnerable parameter in a typical sense in this vulnerability report.
+
+The vulnerable parameters are "basename" and "ext".
+
+The vulnerable parameter in the above vulnerability report appears to be the filename from the `content-disposition` header. The Evernote app doesn't sanitize the received filename from the server response, which allows path transversal.
+
+The vulnerable parameters are `$_POST['thumb']` and `$meta['thumb']`.
+
+The vulnerable parameter in the above file vuln report is `file`.
+
+The vulnerable parameter is "url".
+
+The vulnerable parameter is "req.url".
+
+The vulnerable parameter in the report is the `--port` parameter.
+
+The report does not specify any vulnerable parameters explicitly.
+
+The vulnerable parameter in the above file vuln report is the `/metrics` endpoint and their location within `alias /home/dist/metrics/;`.
+
+The vulnerable parameter in the above file vuln report is 'root'.
+
+The vulnerable parameter from the above file vuln report is the file path used in the cURL command.
+
+The file doesn't provide specific vulnerable parameter names.
+
+The vulnerable parameter in the above file vulnerability report is 'path'.
+
+The vulnerable parameter is not explicitly mentioned in the report.
+
+The text provided does not contain information regarding any vulnerable parameters in a file. Therefore: None.
+
+The vulnerable parameter in the given vulnerability report is the file path.
+
+None
+
+The vulnerable parameters are "nameOfFile" and "directory".
+
+The vulnerable parameter in the above vulnerability report is the URL.
+
+The vulnerable parameter in the above report is the path in the GET and POST requests.
+
+The vulnerable parameter in the file vulnerability report is `..\` on Windows.
+
+The vulnerable parameter in the mcstatic module used in the Server Directory Traversal attack is the file path specified in the CURL request. In the example provided, the path is '../../../../../../../../../etc/passwd'.
+
+The vulnerable parameter in the above file vuln report is the relative path "C:../../".
+
+The vulnerable parameters in the above file vulnerability report are:
+
+1. Import feature of gitlab.com
+2. The URL: https://gitlab.com/api/v4/projects/PROJECT_ID/import
+3. .gitlab_shell_token
+4. '/api/v4/internal/personal_access_token'
+
+The vulnerable parameter in the above file vuln report is "url".
+
+The vulnerable parameter in the file vuln report is: http://localhost:3141/../../../../../../
+
+The vulnerable parameter is ```staticPath```.
+
+url
+
+The vulnerable parameter in the above report is `token`.
+
+The vulnerable parameter is the path name of the url.
+
+The vulnerable parameter in the above file vuln report is ```file```.
+
+The vulnerable parameter is the GET request.
+
+The report does not mention any specific vulnerable parameters.
+
+$type
+
+The vulnerable parameter in the provided vulnerability report appears to be the "lang" parameter in the URLs of the HTTP requests.
+
+The vulnerability report does not specify the name of any vulnerable parameters.
+
+The vulnerable parameter is `range`.
+
+The vulnerable parameter is ```filepath```.
+
+The vulnerable parameter is the file path input in the curl command: "localhost:10000/../../../../etc/passwd"
+
+The vulnerable parameter in the above file vuln report appears to be "lang".
+
+The vulnerable parameter is the path name of the URL.
+
+The vulnerable parameters are `id` and `version`.
+
+The vulnerable parameter in the report is `DIR`.
+
+The vulnerable parameter in the report is the "lang" parameter in the URL.
+
+The vulnerable parameters are:
+
+1. The `--ignore-scripts` flag in the `yarn install` command.
+2. The absolute file path for the symlink (e.g., `/tmp/my-file`)
+3. The tar file transform operation (e.g., `s|package/payload|/my-file|`) in the `gtar` command.
+
+The parameters used on this vulnerability exploit are `type`, `textdomain` and `lang`.
+
+None
+
+The vulnerable parameters in the above file vulnerability report are:
+
+1. token
+2. textdomain
+
+The vulnerable parameter in the above file vulnerability report is "file.getStoragePath()".
+
+The vulnerable parameter in the file is `possibleFilename`.
+
+The vulnerable parameter is "$download['file']".
+
+The vulnerable parameters are `slug` and `position`.
+
+The vulnerability report does not explicitly mention any vulnerable parameters.
+
+`name` field in `metadata.gz`
+
+The vulnerable parameters are:
+
+1. The names of the files stored in the uploaded zip file.
+2. Fields 'Image', 'Square image', 'Logo' and 'Landscape logo' in the `data.csv` file.
+
+The vulnerable parameter isn't explicitly named in this vulnerability report.
+
+The vulnerable parameters in the report are "app", "type", "platform", "resource-type", "name", "textdomain", "default-language", "lang".
+
+tmp, tmp/dir
+
+The vulnerable parameter is the symlink that points outside the gem directory.
+
+The vulnerable parameter in the above file vulnerability report is the file name in the HREF tag of the modification data.
+
+The vulnerable parameter is the path name of url.
+
+filename
+
+The vulnerable parameter is "uri.pathname".
+
+The vulnerable parameters are:
+
+- type
+- textdomain
+- default-language
+- lang
+- app
+- platform
+- resource-type
+- name
+
+The vulnerable parameter is the URL pathname.
+
+The vulnerable parameter in this report is the GET request.
+
+The vulnerable parameters are "key" and "paths".
+
+None
+
+The vulnerable parameter in the file is `api_endpoint`.
+
+pathname
+
+The vulnerable parameter in the above file vuln report is "test_shadow".
+
+The vulnerable parameter is not explicitly named in the vulnerability report.
+
+confirmation_token, invitation_token, state parameter
+
+The vulnerable parameter in the above vulnerability report is `filePathDownload`.
+
+The vulnerable parameter in the above file vulnerability report is "/metrics".
+
+The vulnerable parameter in the above file vuln report is "token".
+
+The vulnerable parameter is `indexFile`.
+
+The vulnerable parameter in the file vulnerability report seems to be "lang".
+
+The vulnerable parameters couldn't be explicitly identified from the report as it discusses a path traversal issue rather than specific parameters. With a path traversal attack, the vulnerability lies in the file system access rather than specific parameters. However, the concern revolves around the URL used to access the Grafana instance, particularly through the '/public/plugins/mysql/' endpoint.
+
+The vulnerable parameters are not explicitly named in the report.
+
+The vulnerable parameter here is the URL: `http://localhost:8080//../../../../etc/passwd`
+
+The vulnerable parameter is the file path in the curl command.
+
+The vulnerable parameter is "req.url".
+
+None
+
+The vulnerable parameters are: cookie LKlang and post LK_LANG.
+
+The vulnerable parameter is "url".
+
+The vulnerable parameter in the report is "Alias-like directives".
+
+The vulnerable parameter is the file path in the URL.
+
+The vulnerable parameter in the above file vuln report is "symlink".
+
+The vulnerability report does not specify any vulnerable parameters.
+
+The vulnerable parameter in the above vulnerability report is the "URLs in HTTP requests".
+
+None
+
+The vulnerable parameter is "path".
+
+The vulnerable parameter in the file vulnerability report is "image_temp".
+
+The vulnerable parameters in the file vulnerability report are 'upload_path' and '_wp_page_template'.
+
+The vulnerable parameter in the above file vulnerability report appears to be the URL parameter in the GET request.
+
+The vulnerable parameter in the file vuln report is the URL path which is allowing path traversal exploiting.
+
+The vulnerable parameter in the given file vulnerability report is "filename".
+
+The vulnerable parameters in the above file vulnerability report are:
+
+1. `untar_zxf`
+2. `file_path`
+3. `passwd`
+4. `secrets.yml`
+
+The vulnerable parameter in the report is "currpath".
+
+None
+
+The vulnerable parameter in the file vuln report is the URL path used in the cURL and Burp commands.
+
+The vulnerable parameters from the above file vulnerability report are:
+
+1. name="upload_file"
+2. name="productId"
+3. name="directory"
+4. name="saveButton"
+
+The vulnerable parameter in the above file vuln report is "registerUserInfoCommand.nextPageName".
+
+The vulnerable parameter is not explicitly mentioned in the vulnerability report.
+
+The vulnerable parameters are "type", "textdomain", "lang", "app", "platform", "resource-type", "name".
+
+The vulnerable parameter is "path".
+
+The vulnerable parameters are not clearly mentioned in the provided report.
+
+The vulnerable parameter in this case seems to be the complexity of the directory traversal request, aimed to access "/etc/passwd". It's not a typical parameter within the file, but the exploit is clear through traversal manipulation.
+
+The vulnerable parameter in the above file vulnerability report is the file path parameter in the curl command: `curl --path-as-is http://localhost:8181/../../file.txt`
+
+The vulnerable parameter in the above file vulnerability report is `m`.
+
+The vulnerable parameter is "InstallPath".
+
+The vulnerable parameter is not explicitly named in the report.
+
+The vulnerable parameter in the above vulnerability report is `~a..`.
+
+The vulnerable parameter is `commit`.
+
+The vulnerable parameter is `os.Args[3]`.
+
+The vulnerable parameters in the file vuln report are: 
+
+1. app
+2. type
+3. platform
+4. resource-type
+5. name
+
+The vulnerable parameter in the above file vuln report is "token".
+
+The vulnerable parameters in the file vuln report are:
+
+1. type
+2. textdomain
+3. default-language
+4. lang
+
+The vulnerability report does not specify parameter names, instead it highlights a specific path that is vulnerable. The vulnerability is exploited directly through the URL path rather than through specific parameters.
+
+The vulnerability report does not specify any vulnerable parameters. The exploit is carried out directly through the URL path using a symlink, not through specific parameters.
+
+The vulnerable parameters in the above file vuln report are:
+
+1. "android.intent.extra.STREAM" 
+2. "android.intent.extra.TEXT"
+3. "android.intent.extra.TITLE"
+
+The vulnerable parameters are not explicitly named in the report. However, the directory traversal bug would typically involve parameters related to file or directory paths. It is also implied that the `.so` extension and the `dlopen` function could be involved in the vulnerability.
+
+The report does not specify any vulnerable parameter names.
+
+The vulnerable parameter in the report is "filePath".
+
+The report does not provide explicit names of the vulnerable parameters. However, it mentions "CLI argument" and "io.ioutil.ReadFile" which indicates the issue involves unsanitized input from command line arguments being used in file operations, potentially leading to a Path Traversal vulnerability.
+
+The report does not provide explicit names of the vulnerable parameters. However, it mentions a situation where the path name of the URL is added to the web root, making it hint at a vulnerability in how URLs are processed or the path name parameter.
+

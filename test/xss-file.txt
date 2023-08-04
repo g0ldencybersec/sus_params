@@ -1,0 +1,3322 @@
+The text provided does not include any specific details about a cross site scripting report, thus it's impossible to identify any vulnerable parameters. So, the answer is none. However, this may change if further context or information is provided.
+
+The vulnerable parameters identified in the above cross site scripting report are: `domain`, `script_name`, `viewer_url`.
+
+The vulnerable parameter in the above cross site scripting report is "auth_code".
+
+The vulnerable parameters are "Title" and "Description".
+
+The vulnerable parameter is `cID`.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter seems to be "npm/cx".
+
+The vulnerable parameter in the above cross site scripting report is the app name.
+
+The vulnerable parameters appear to be "name", "email", "phone", "message", "submitted", and "g-recaptcha-response".
+
+The vulnerable parameter in the above cross site scripting report is the "filename".
+
+The vulnerable parameter is: search_text
+
+The vulnerable parameter in the cross site scripting report is "_ga".
+
+The vulnerable parameter is the "directory name".
+
+None
+
+The vulnerable parameter in the above cross site scripting report is `additional_text`.
+
+The vulnerable parameter in the cross site scripting report is "q".
+
+The vulnerable parameter in this cross-site scripting report is `href` within the `use` tag of the `SVG` element.
+
+The vulnerable parameter is the lp shop name.
+
+The vulnerable parameters are "js-topbar" and "js-share-link".
+
+The vulnerable parameter in the above cross site scripting report is the "Name of the plan".
+
+The vulnerable parameter is $_SERVER['QUERY_STRING'].
+
+The name of the vulnerable parameter is the folder name ("%22%3e%3cimg src=x onerror=alert(1)%3e") in cloud.mail.ru.
+
+The vulnerable parameter in the cross-site scripting report is the 'ctx' parameter.
+
+The vulnerable parameter in the above cross-site scripting report is "file".
+
+The vulnerable parameters are "Title" and "GameplayVersion".
+
+The vulnerable parameter in the above cross site scripting report is the filename.
+
+The vulnerable parameter here is the "Quick question" field.
+
+The vulnerable parameter in the above cross site scripting report is "verification/asd".
+
+The vulnerable parameter in this cross site scripting report is the "project name" field.
+
+The vulnerable parameter in the above cross site scripting report is "sign-in.currency".
+
+The vulnerable parameter is the username field.
+
+The vulnerable parameter in the above cross site scripting report is `statsBreakdown`.
+
+None
+
+The vulnerable parameter in the above cross site scripting report is the file name.
+
+The vulnerable parameter is "username".
+
+The vulnerable parameter is the directory name.
+
+The vulnerable parameter in the above cross site scripting report is "file".
+
+The vulnerable parameter in the above cross site scripting report is `content`.
+
+The vulnerable parameter in the above cross site scripting report is "SAMLResponse".
+
+The vulnerable parameter in the above cross site scripting report is "name".
+
+The vulnerable parameter here is the URL of the 404 page.
+
+The vulnerable parameter is the address field in the contacts creation form.
+
+The report does not mention or specify any vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is "████████".
+
+The vulnerable parameter in the cross-site scripting report is `@name`.
+
+The vulnerable parameter in this cross site scripting report is the name of the folder ("папку с пейлоадов в названии").
+
+The vulnerable parameter in the cross site scripting report is "Name".
+
+The vulnerable parameters are Address and City.
+
+The vulnerable parameter in this report is the SVG file upload functionality.
+
+The vulnerable parameter is: unsafe_link
+
+The vulnerable parameter in the cross site scripting report is "atb".
+
+The vulnerable parameters are "username" and the endpoint's path.
+
+The vulnerable parameter from the above cross site scripting report is: filter.jobTitleExact
+
+The vulnerable parameter in the cross site scripting report is "posttitle".
+
+The vulnerable parameters in the provided cross site scripting report are:
+
+1. properties[Artwork file]
+2. properties[Custom text line 1]
+3. properties[Custom text line 2]
+4. properties[Custom text line 3]
+5. production-time
+6. id
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is `name`.
+
+Content-Type
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is "strSearch".
+
+The vulnerable parameter in the report is the URL.
+
+The vulnerable parameters in the above cross site scripting report could be:
+
+- "filename"
+- "file"
+- "token"
+- "channels"
+- "title"
+- "initial_comment"
+
+The vulnerable parameter seems to be "usernames".
+
+The vulnerable parameters are `endpoint` and `query`.
+
+The vulnerable parameter in this cross site scripting report is the filename.
+
+The vulnerable parameter appears to be 'dimension1' in the ga('set') function call.
+
+The vulnerable parameters are the first name and last name fields on the registration page.
+
+The report does not explicitly mention any vulnerable parameter.
+
+The vulnerable parameters in the above cross site scripting report are the URLs in the "Jump to" and "Document" links.
+
+The vulnerable parameter is "url".
+
+The vulnerable parameter in this case might be the 'product name'.
+
+The vulnerable parameter in the above cross site scripting report is 'SAMLResponse'.
+
+The vulnerable parameter here is the username.
+
+The report does not explicitly name any vulnerable parameters involved in the cross-site scripting issue.
+
+None
+
+The vulnerable parameter from the above cross site scripting report is "destpage".
+
+The report doesn't provide explicit names of the vulnerable parameters.
+
+The vulnerable parameters in the cross site scripting report are subject, preview text, and selection body section.
+
+The vulnerable parameters in the above cross site scripting report are "imgId" and "lang".
+
+The vulnerable parameter in the above cross site scripting report is the URL parameter (?1%25%32%32%25%33%65%25%33%63%25%32%66%25%36%31%25%33%65%25%33%63%25%36%31%25%30%63href%25%33%64%25%32%32http://3232235777) in the main domain.
+
+The report does not provide specific names of the vulnerable parameters involved in the cross-site scripting vulnerabilities.
+
+The vulnerable parameter in the given cross-site scripting report is "lang".
+
+The vulnerable parameter in the report is "s".
+
+click url
+
+The vulnerable parameter in the above cross site scripting report is: pt.
+
+The vulnerable parameter in the above cross site scripting report is `user`.
+
+The vulnerable parameter in the given cross-site scripting report is "fld_frompor".
+
+None
+
+onload
+
+The vulnerable parameter in the above report appears to be the user-inputted markdown that is not properly sanitized, allowing for HTML injection.
+
+The vulnerable parameters are: 
+
+1. First name
+2. Last name
+3. Street Address
+4. Apt/Suite/#
+5. City
+
+The vulnerable parameter in this case appears to be the script-src having 'unsafe-inline' and 'unsafe-eval' as directives.
+
+The vulnerable parameter in the above cross site scripting report is `status`.
+
+The report does not explicitly mention any vulnerable parameters.
+
+The report doesn't provide specific names for the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report appears to be the feedback form that appears after choosing the "No, please remove all widgets button".
+
+The vulnerable parameter is the filename.
+
+The vulnerable parameter is the user's bio.
+
+The vulnerable parameter in the above cross site scripting report is "v0sjx'-alert(1)-'uyvvr".
+
+The vulnerable parameter is the project's name.
+
+The vulnerable parameter is "username".
+
+The report does not provide specific names for any vulnerable parameters.
+
+The vulnerable parameter is "redirect_uri".
+
+The vulnerable parameter in the above cross site scripting report is not explicitly mentioned.
+
+1. $.get
+2. playerUrl
+3. ctaLink
+
+The vulnerable parameter from the cross site scripting report is: skeyword.
+
+The vulnerable parameter in the above cross site scripting report is "date".
+
+The vulnerable parameter is the URL input field for the Grafana domain.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The report does not specifically name any vulnerable parameters.
+
+The vulnerable parameter in this case appears to be the Product name.
+
+The vulnerable parameter in this case seems to be the "password" during the signup process.
+
+The vulnerable parameter in the above cross site scripting report is the Origin Header.
+
+name
+
+metadataUrl, redirectUrl
+
+The vulnerable parameter in the above cross site scripting report is "OprId".
+
+The vulnerable parameter in the given cross site scripting report is "r".
+
+The vulnerable parameter in the above cross site scripting report is the URL: `www.dota2.com/international/live/5/5/1})}});alert(document.cookie);(test=>{{({<!--`
+
+The report doesn't provide specific parameter names that are vulnerable to the cross-site scripting attack.
+
+The vulnerable parameter in the above cross site scripting report is not explicitly mentioned. However, based on the context, it might be the parameter represented by "█████" in the POST request content.
+
+The vulnerable parameter in the above cross site scripting report is "id".
+
+The vulnerable parameter is the product name.
+
+The vulnerable parameter in the above cross site scripting report is `updater-secret-input`.
+
+The vulnerable parameter in the above Cross Site Scripting (XSS) report is "path".
+
+The vulnerable parameter in the above cross site scripting report is the comment parameter in the URL.
+
+The vulnerable parameter appears to be the relative URL path on the login page.
+
+The vulnerable parameters in the above cross site scripting report are: 
+
+1) `path`
+2) `crumb`
+3) `vote`
+
+The vulnerable parameter in this case is `Shopify.API.setWindowLocation`.
+
+The vulnerable parameter from the above cross site scripting report is `transactionName`.
+
+The vulnerable parameter in the cross site scripting report is `redirect_uri`.
+
+The vulnerable parameter appears to be "cookie_swa_lang". It is being injected with the alert(1) function, which is a common indicator of Cross-Site Scripting (XSS) vulnerabilities.
+
+The vulnerable parameter in the above cross site scripting report is `author_url`.
+
+The vulnerable parameter in the cross site scripting report is "jsinitfunctio%gn".
+
+The vulnerable parameter in the report is "movieName".
+
+The vulnerable parameter in the above cross-site scripting report is "App name".
+
+playerID
+
+None
+
+The vulnerable parameter in the above cross site scripting report is `description`.
+
+The vulnerable parameter in the above cross site scripting report is "Nickname".
+
+The vulnerable parameter in the above cross site scripting report is "email".
+
+The vulnerable parameters in this cross-site scripting report are `Location`, `Content-Type`, and `X-XSS-Protection`.
+
+The vulnerable parameter in the cross site scripting report is "dir".
+
+The vulnerable parameter in the above cross site scripting report is the 'title' field.
+
+The vulnerable parameter in this cross site scripting report is the username field in the url.
+
+The vulnerable parameter in this cross-site scripting report appears to be "search".
+
+The vulnerable parameter in the XSS report is 'password'.
+
+The vulnerable parameter in the above cross site scripting report is `█████████`.
+
+The vulnerable parameter is 'gapup_login_nonce'.
+
+The vulnerable parameter is **backUrl**.
+
+The vulnerable parameter from the XSS report is "q_21671=".
+
+The vulnerable parameters are Charge, Transfer, Refund, Dispute.
+
+The vulnerable parameter in the report is "my name".
+
+None
+
+The vulnerable parameter in this case is `Store contact email`.
+
+The vulnerable parameter in the above cross site scripting report is "type".
+
+The vulnerable parameter in the above cross site scripting report is `stripping`.
+
+The vulnerable parameter in the above cross site scripting report is: referer.
+
+None
+
+The vulnerable parameter is the object "location (url)".
+
+The vulnerable parameter from the above cross site scripting report is: properties[builder_id]
+
+The vulnerable parameter in the above cross-site scripting report is the task name.
+
+The vulnerable parameter in the above cross site scripting report is `href`.
+
+The vulnerable parameter is `q`.
+
+The vulnerable parameters in the cross-site scripting report are urlNoCategory and urlNoLocation.
+
+The vulnerable parameter is "email".
+
+The vulnerable parameter is the link in the "connected successfully" message.
+
+The report does not provide specific names for the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is "lang_id".
+
+The vulnerable parameter is "engine[primary_attribute]".
+
+The vulnerable parameter in the report is: ../../comments_dal/users/getGlobalLoginSettings.json?callback=alert%28document.domain%29 .
+
+The vulnerable parameter in the above cross site scripting report is "text".
+
+The vulnerable parameter from the above cross site scripting report is "back".
+
+The vulnerable parameter in the above cross site scripting report is "My Custom Rule".
+
+The vulnerable parameter is `segFilter`.
+
+The vulnerable parameter is the user's Profile settings that accept website URLs.
+
+The vulnerable parameter is "city".
+
+The vulnerable parameter in the above cross site scripting report is "xss".
+
+The vulnerable parameter in the provided cross-site scripting report is "location" within the "data" object of the "postMessage" method.
+
+The vulnerable parameter is `WhatSubmitted`.
+
+The vulnerable parameter is the "Network" name.
+
+The vulnerable parameter here is the `msg` parameter in the JSON payload, which is being insecurely handled by the `autolink` function.
+
+The vulnerable parameter in the above cross site scripting report is "params".
+
+The vulnerable parameter in the report is the "attachments name" in the "Support requests" section.
+
+The vulnerable parameters are `parentPageString` and `labelsString`.
+
+The vulnerable parameter is the **Name Field**.
+
+The vulnerable parameter in this cross-site scripting report is "query".
+
+The vulnerable parameters in the cross site scripting report are the "first name" and "last name" during customer registration.
+
+The vulnerable parameter in this cross site scripting report is "jsinitfunctio%gn".
+
+The report doesn't explicitly mention the name of the vulnerable parameters involved in the cross-site scripting (XSS) vulnerability.
+
+The vulnerable parameter in the above cross site scripting report is `url`.
+
+The vulnerable parameter in this cross-site scripting report is the "Title" field under "Manage Goal".
+
+The vulnerable parameter is the **Email** field.
+
+url
+
+The vulnerable parameter in this cross site scripting report is the "first class Title name".
+
+The vulnerable parameter in the above cross site scripting report is "SAMLResponse".
+
+The vulnerable parameter in the above cross site scripting report is 'u'.
+
+The vulnerable parameter in the above cross site scripting report is "p".
+
+The vulnerable parameters appear to be 'fsNewText' and possibly 'fsID;1'.
+
+The vulnerable parameter in the above cross site scripting report is the user names.
+
+The vulnerable parameters in the cross-site scripting report are:
+
+1. URL
+2. hashtag
+3. hashIndex
+4. hashRel
+
+The vulnerable parameter is `search`.
+
+The vulnerable parameter appears to be "search".
+
+The vulnerable parameter is the search bar.
+
+The vulnerable parameter seems to be the "attach file" option where an HTML file with XSS payloads can be attached and stored.
+
+The vulnerable parameter in the above cross site scripting report is the account name.
+
+The vulnerable parameter in the above cross site scripting report is the "Set a custom message" function.
+
+The vulnerable parameter from the above cross site scripting report appears to be the "staff name".
+
+The vulnerable parameter in the above cross site scripting report is "msgBody".
+
+The vulnerable parameter in this cross site scripting report is the "formaction".
+
+The vulnerable parameters in the given cross site scripting report are "readyFunction" in the first URL and "url" in the second URL.
+
+The vulnerable parameter is the "new message" in the discussion section.
+
+The vulnerable parameter in this cross-site scripting report is "q".
+
+The vulnerable parameter in this case is the "c4" parameter in the COMSCORE.beacon function.
+
+The vulnerable parameter in the above cross site scripting report is "rcnum".
+
+The vulnerable parameter in the cross site scripting report is "blocker.summary".
+
+The vulnerable parameter in the above cross site scripting report is the Custom CSS editor in the Markdown panel of the TSVB visualization.
+
+The vulnerable parameter in the above cross site scripting report is `numSuggestions`.
+
+The vulnerable parameter in the above cross site scripting report is 'html'.
+
+The vulnerable parameter in the above cross site scripting report is "Ctg".
+
+The vulnerable parameter in the above cross site scripting report is the 'Thank You Header'.
+
+The vulnerable parameters are "original_referer" and "referer".
+
+None
+
+The vulnerable parameter is `option`.
+
+url
+
+The report does not explicitly mention any vulnerable parameters.
+
+The vulnerable parameter is "section".
+
+The vulnerable parameters in the given cross-site scripting report are the `<svg>`, `<use>` elements and its `xlink:href` attribute.
+
+None
+
+The report does not specify the names of the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is "arg2".
+
+The information provided doesn't include a cross site scripting report, so it's impossible to identify any vulnerable parameters.
+
+The vulnerable parameter in the report is "Team Name".
+
+The report does not provide specific vulnerable parameters.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the report appears to be "q".
+
+The name of the vulnerable parameter is not explicitly mentioned in the report. However, the vulnerability seems to be related to the project name in Infogram plugin, as the problematic input is inserted there.
+
+The vulnerable parameter in the above report is "lang".
+
+None
+
+The vulnerable parameters cannot be explicitly identified from the provided information.
+
+The vulnerable parameter in the above cross site scripting report is the file name of the uploaded csv file.
+
+The vulnerable parameters are:
+
+1. fulfillment[tracking_urls][]
+2. fulfillment[tracking_numbers][]
+
+The vulnerable parameters are the `Name` and `Comments` fields.
+
+The vulnerable parameter in the given cross site scripting report is `CKEditorFuncNum`.
+
+The vulnerable parameter is "billing-address".
+
+The vulnerable parameter in the above cross site scripting report is 'SAMLResponse'.
+
+The vulnerable parameter in the above cross site scripting report is the "project name".
+
+The vulnerable parameter in the above cross-site scripting report is "title".
+
+The report does not provide specific names of the vulnerable parameters.
+
+window.location.hash
+
+None
+
+The vulnerable parameter in the above cross site scripting report is the `product description` field.
+
+The vulnerable parameter in the above cross site scripting report is: document.write('...<script>alert(1)</script>...');
+
+The vulnerable parameter in the above cross site scripting report is the "label color" parameter during the import process from Github to Gitlab.
+
+The report does not provide specific vulnerable parameters.
+
+The vulnerable parameter appears to be "auth".
+
+The vulnerable parameter in the URL appears to be: (A('onerror='alert%60xElkomy%60'xelkomy)).
+
+The vulnerable parameter in the above cross site scripting report is the file name parameter in the upload API.
+
+The vulnerable parameter is "url".
+
+The report does not specifically mention the names of any vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is "tier".
+
+The vulnerable parameters are 'BIO', 'REAL NAME' and 'LOCATION'.
+
+The vulnerable parameters in the cross site scripting report are:
+
+1. auth_token 
+2. the cookie value `test`
+3. image URL extension
+
+Headline
+
+The vulnerable parameter is "Custom variables".
+
+The vulnerable parameter from the above cross site scripting report is 'filename'.
+
+The vulnerable parameter is the key's name input tag.
+
+The vulnerable parameter in the above cross site scripting report is "r".
+
+The vulnerable parameter in the report appears to be "Feature Paragraph".
+
+The vulnerable parameter from the above cross site scripting report is `filter.jobTitleExact`.
+
+The vulnerable parameter in the above cross site scripting report is: entity_id.
+
+The vulnerable parameter identified in the above cross site scripting report is `term`.
+
+The vulnerable parameter is _cc.
+
+The vulnerable parameter is the "Name" field.
+
+The vulnerable parameter in the above cross site scripting report is the "Title" parameter.
+
+The vulnerable parameter is "chat[tags]".
+
+The report does not explicitly mention any parameter(s) that are vulnerable.
+
+The vulnerable parameter is "readyFunction".
+
+The vulnerable parameters are:
+
+1. 'payload'
+2. 'lineItems'
+3. 'name'
+
+The vulnerable parameter in the cross site scripting report is the paste ID.
+
+The vulnerable parameter in the above cross site scripting report is the "Title" of the video.
+
+The vulnerable parameter in the cross-site scripting report is `requires_python`.
+
+The vulnerable parameter in the above cross site scripting report is "contact[email]".
+
+The vulnerable parameter from the above cross site scripting report is q_21655.
+
+The vulnerable parameter in this report is the product name.
+
+q
+
+The vulnerable parameter in the above cross site scripting report is the "name" field.
+
+The vulnerable parameter in the above cross site scripting report is "og:site_name".
+
+The vulnerable parameters are "ahoy_visitor" and "ahoy_visit".
+
+The vulnerable parameter in the above cross site scripting report is "email".
+
+The vulnerable parameter in the above cross site scripting report is "Image Alt. Text".
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameters in the cross-site scripting report are "image", "description", "image_width", and "image_height".
+
+The vulnerable parameter is the "add redirects".
+
+The vulnerable parameter in the above cross site scripting report is: "&#123;&quot;title&quot;&#58;&quot;Do&#32;you&#32;have&#32;sample&#32;or&#32;reference&#32;applications&#32;that&#32;could&#32;demonstrate&#32;some&#32;API&#32;calls&#32;for&#32;me&#63;&quot;&#44;&quot;helpful&quot;&#58;&quot;false&lt;svg&#32;onload"
+
+The vulnerable parameter in the above cross site scripting report is the ID.
+
+The vulnerable parameters in the above cross site scripting report are "badge name", "badge description", and "Key display name".
+
+share_url, url_in_cp1251
+
+The report does not provide specific names of the vulnerable parameters for the stored XSS issue.
+
+The vulnerable parameter in the above cross-site scripting report is "name".
+
+The vulnerable parameter is "Social Network fields".
+
+The vulnerable parameter is the username.
+
+The vulnerable parameter mentioned in the cross-site scripting report is "q_21675".
+
+The vulnerable parameter in this cross-site scripting report appears to be the 'iframe src' attribute.
+
+The vulnerable parameter in the cross-site scripting report is `militarybranch`.
+
+The vulnerable parameter in the cross site scripting report is "ts".
+
+The vulnerable parameter is the select attribute option value.
+
+The vulnerable parameters are "handle", "questionnaireResponses[1]", "questionnaireResponses[2]", and "questionnaireResponses[3]".
+
+The vulnerable parameter in the above cross site scripting report is `__proto__`.
+
+The vulnerable parameter in the above cross site scripting report is the filename.
+
+The vulnerable parameter is "_regionConfirm_".
+
+The vulnerable parameters identified in this cross site scripting report are `category` and `label`.
+
+src
+
+The vulnerable parameter(s) in the above cross site scripting report appears to be the "Lähetä viesti"-functionality which allows for a file upload; however, no specific form or query parameters are detailed.
+
+The vulnerable parameters in the report seem to be the TRACE method and the Qualys-Scan parameter within it, which could potentially allow for Cross-Site Scripting (XSS) attacks.
+
+The vulnerable parameter in the above cross site scripting report is "c".
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is the 'asset' parameter.
+
+The report does not provide specific vulnerable parameters.
+
+The vulnerable parameter is `language_id`.
+
+The vulnerable parameters are **"ms"** and **"title"**.
+
+DEMO
+
+The vulnerable parameter in the above cross site scripting report is "X-XSRF-TOKEN".
+
+The vulnerable parameter in the above cross site scripting report is `url`.
+
+The vulnerable parameter in the report is the search box.
+
+The vulnerable parameter is 'win'.
+
+The vulnerable parameter in the above cross site scripting report is "error_description=".
+
+The vulnerable parameter is `Asset` name.
+
+The vulnerable parameter in the above cross site scripting report is the user's first and last names within an <iframe> tag in the profile.
+
+The vulnerable parameter is "edit".
+
+The vulnerable parameters in the report are "Title in Add menu" and "Title" in "Menu Item".
+
+The vulnerable parameters are ```download_url``` and ```home_page``` located in the ```setup.py```.
+
+The vulnerable parameters in the above cross site scripting report are `:web_url` and `:id`.
+
+app name
+
+The vulnerable parameters in the above cross site scripting report are:
+
+1. The private messaging feature in BuddyPress settings.
+2. The user's account with default permissions.
+3. The 'Test<iframe src=javascript:alert(1) width=0 height=0 style=display:none;></iframe>' message in the sending and replying messages feature in the user's profile.
+
+The vulnerable parameter in the above cross site scripting report is the "Plan Name" field.
+
+The report does not provide specific names of the vulnerable parameters involved in the cross site scripting vulnerability.
+
+The vulnerable parameters in the cross site scripting report are First name, Last name, Company and Description field.
+
+The vulnerable parameter in the above cross site scripting report is `militarybranch`.
+
+The vulnerable parameter in the above cross site scripting report is `value`.
+
+The vulnerable parameter is ```utm_campaign```.
+
+The vulnerable parameter in the above cross site scripting report is the URL "http://smarthistory.khanacademy.org/Campin".
+
+The vulnerable parameter is "utm_campaign".
+
+The vulnerable parameter in the above cross site scripting report is the "member name".
+
+The vulnerable parameter is "cvo_sid1".
+
+The vulnerable parameters in the above HTML Injection issue are `user[name]`, `user[agent_display_name]`, `user[email]`, `user[restriction_id]`, and `user[roles]`.
+
+The vulnerable parameter in the above cross site scripting report is `locationId`.
+
+The vulnerable parameters are not specifically named in the report. Instead, the report describes a method of injecting malicious scripts directly into the web application. The names for these scripts or code snippets used in the report are not classified as 'parameters'. However, they are using the branch name and file content as the medium to store and execute the malicious scripts.
+
+The vulnerable parameter in the report is "Message".
+
+The vulnerable parameters in the report are "error[props][dangerouslySetInnerHTML][__html]", "error[_isReactElement]" and "error[type]".
+
+The vulnerable parameter(s) in the above cross site scripting report appears to be "what" and "where".
+
+The vulnerable parameters in the above cross site scripting report are: 
+
+1. prettyPhoto[i]
+2. <svg/onload=alert(document.domain)>
+3. prettyPhoto[gallery]
+4. <a onclick="alert(document.domain);">
+
+The vulnerable parameter in the above cross site scripting report is `mult-tag`.
+
+The vulnerable parameter in the above cross site scripting report is "url".
+
+The vulnerable parameter in the cross site scripting report is `properties[builder_id]`.
+
+The vulnerable parameter is the href value.
+
+The vulnerable parameter in the above cross site scripting report is the POST keyword parameter.
+
+The vulnerable parameter in the above cross site scripting report is `ast.code`.
+
+The vulnerable parameter in the above cross site scripting report is the file format check mechanism in Inbox.
+
+The vulnerable parameters are "css" and "url".
+
+The vulnerable parameter in the above cross site scripting report is `breakdown`.
+
+The vulnerable parameter is the "owners name".
+
+The vulnerable parameter is "redirect".
+
+The vulnerable parameter in the above cross-site scripting report is the "new topic".
+
+The vulnerable parameter here is **shop**.
+
+The vulnerable parameter in this case is the ZIP codes.
+
+The vulnerable parameters are "Issue Title" and "Description".
+
+The vulnerable parameter in the above cross site scripting report is "find a city".
+
+The vulnerable parameter from the above cross site scripting report is "SAMLResponse".
+
+The vulnerable parameter in this case is the URL of the website.
+
+The vulnerable parameter in the above cross site scripting report is "r".
+
+The vulnerable parameter is `section_tab`.
+
+The vulnerable parameters are "name" and "lastname".
+
+sysparm_url
+
+The vulnerable parameter in the above cross site scripting report is the page `/reblog/ID/OTHER_ID`.
+
+The vulnerable parameter in the cross site scripting report is the "filename".
+
+The vulnerable parameter in the above cross site scripting report is "NAME".
+
+The vulnerable parameter in the above cross site scripting report is the username.
+
+URL
+
+The vulnerable parameter is `mysql Username`.
+
+The vulnerable parameters in the above cross site scripting report are *blobstore_url* and *content*.
+
+The vulnerable parameter in the above cross site scripting report is "fileName".
+
+The vulnerable parameter in the report is "endpoint".
+
+displayname
+
+The vulnerable parameter is `u`.
+
+None
+
+search title
+
+The vulnerable parameter is "error".
+
+The vulnerable parameter in the above cross site scripting report is "where".
+
+The report states that the vulnerable parameters are "█████████". However, the specific names are redacted.
+
+The vulnerable parameter is ReturnUrl.
+
+The vulnerable parameter in the above cross site scripting report is "file".
+
+The vulnerable parameter in the above cross site scripting report is "url".
+
+The vulnerable parameter in the above cross site scripting report is `editor`.
+
+The vulnerable parameter in the given cross site scripting report is `rendermode`.
+
+The vulnerable parameter in the above cross site scripting report is `backLink`.
+
+The vulnerable parameter in the above cross site scripting report is the portal content parameter in the Return Magic app.
+
+The vulnerable parameter in the given cross site scripting report appears to be the user's hostname on their machine.
+
+The vulnerable parameter in the report appears to be the comment section where user inputs are entered.
+
+The vulnerable parameter in the cross site scripting report is "URL".
+
+The vulnerable parameter in the above cross site scripting report is "SAMLResponse".
+
+The vulnerable parameter in the above cross site scripting report is "Error".
+
+The vulnerable parameter is the "name" parameter in the "assets" array of the webpack JSON file.
+
+The vulnerable parameter in this report appears to be the "Group" name field when creating a new group on Gitlab.
+
+The vulnerable parameter in the above cross site scripting report is `state`.
+
+The name of the vulnerable parameter from the above cross site scripting report is "xlink:href".
+
+The vulnerable parameter in the above cross site scripting report is "description".
+
+The vulnerable parameter in this cross site scripting report appears to be `overlay=`, which is Base64 encoded and includes the payload in the request.
+
+The report does not provide specific vulnerable parameter(s).
+
+The vulnerable parameters in the above cross site scripting report are "action", "data-controller", "name", and "value".
+
+The vulnerable parameter in the above cross site scripting report is the HTTP User-Agent header.
+
+The vulnerable parameter is `scripts`.
+
+The vulnerable parameters in the above Cross-Site Scripting report are `First Name` and `Last Name`.
+
+The vulnerable parameters are `myFolder` and `folder->alias()`.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameters in the above cross site scripting report are the URLs and the search bar.
+
+The vulnerable parameter in the above cross site scripting report is "dir".
+
+The vulnerable parameter in the above cross site scripting report is "Request-URI".
+
+The vulnerable parameter in the above cross site scripting report appears to be the file name.
+
+The vulnerable parameter in the above cross site scripting report is `pfTitle=`.
+
+The vulnerable parameter in this report is the class name: `</script>"><img src=x onerror=alert(0)>`
+
+The vulnerable parameter in the above cross site scripting report is 'action'.
+
+The vulnerable parameter in the above cross site scripting report is 'description'.
+
+The vulnerable parameter is "name".
+
+The vulnerable parameter in the above cross site scripting report is "free_word".
+
+The vulnerable parameter is "cvo_sid1".
+
+The vulnerable parameter from the above cross site scripting report is "name".
+
+The vulnerable parameter is "service".
+
+The vulnerable parameters are:
+
+- Member name
+- Badge name
+- Badge description
+- Key display name
+- Key input
+
+The report doesn't provide specific names of the vulnerable parameters involved in the cross site scripting issue.
+
+The vulnerable parameter here is "flashcookie".
+
+The vulnerable parameter in this cross site scripting report is `Format`.
+
+The vulnerable parameter in the cross site scripting report is the "invite code".
+
+The vulnerable parameter in the above cross-site scripting report is `F1607675`.
+
+The vulnerable parameters are "continue" and "signup_continue".
+
+The vulnerable parameter in the above cross site scripting report is the **mygames** S3 bucket url used in the my.games domain:
+https://my.games/hotbox/YOUR_BUCKET_NAME/YOUR_FILE_NAME
+An attacker can replace "YOUR_BUCKET_NAME" and "YOUR_FILE_NAME" with their own malicious bucket and file to exploit this vulnerability.
+
+The vulnerable parameter is: ?redirect_uri=
+
+The vulnerable parameters are 'genesis_id' and 'filename'.
+
+The vulnerable parameter in the cross site scripting report appears to be "███████████".
+
+The vulnerable parameters are the "name" field in both the item options (when any item from the left menu is dropped to the center and its details are edited) and the "flaw" creation option (when a new "flaw" is created by clicking on the "+" button on the top right).
+
+The vulnerable parameter in the above cross site scripting report is `lf-content`.
+
+The vulnerable parameters in the above cross site scripting report are:
+
+1. `onIgnoreTag`: This function is used in the `js-xss` but can be bypassed, leading to the Self-XSS situation.
+
+2. `e`: This is used in the `onIgnoreTag` function. 
+
+3. `t`: This is also used in the `onIgnoreTag` function.
+
+4. `shop_domain`: This is used in the HMAC authentication feature to force another user login.
+
+5. `platform`: This is used in the HMAC authentication feature.
+
+6. `hmac`: This is the hash created in the HMAC authentication feature, using `'sha256'`, `'no_iframe=1&platform=woocommerce&shop_domain={$domain}'`, and the `$token`.
+
+7. `Referer`: This header is checked in the endpoint that retrieves the API private token.
+
+8. `img src`: This is used in the XSS script for triggering an alert.
+
+Note: Names of parameters might be different in the real scenario depending on the situation and context.
+
+None
+
+The vulnerable parameter from the above cross site scripting report is: __branch_flow_id.
+
+The vulnerable parameter in this report appears to be the file name.
+
+The vulnerable parameter here is "Say something about yourself..."
+
+The vulnerable parameter in the above report is the 'name' parameter during the account creation process.
+
+The vulnerable parameters in the cross-site scripting report are:
+
+1. lastArticleBreadcrumbs
+2. lastArticleHref
+
+The vulnerable parameter in the above cross site scripting report is "ad_type".
+
+The vulnerable parameters are "javascript&#58alert(document.domain)" and "javascript&#x3ax=1;alert(document.domain)" from the HTML code example provided.
+
+The vulnerable parameter in the above cross site scripting report is ```category_id=```.
+
+The vulnerable parameter in the provided URL is "currency".
+
+The vulnerable parameters from the above cross site scripting report are location.hash and DIV.innerHTML.
+
+The vulnerable parameters in the provided XSS report are "login" and "password".
+
+The vulnerable parameter in the above cross site scripting report is the textfield with the placeholder of "Branches (optional)".
+
+The vulnerable parameter in the above cross site scripting report appears to be "fromsource".
+
+The vulnerable parameters in the report are "background-image" in the style block for "#test" and "#p". These parameters have been exploited to inject malicious scripts through the 'url' function within the CSS style.
+
+The vulnerable parameter in the above cross-site scripting report is "onmouseover".
+
+The vulnerable parameter in the above cross site scripting report is e.source.
+
+The vulnerable parameter here is "data-title".
+
+The vulnerable parameter is the URL box for remote files in File Manager.
+
+link1
+
+The vulnerable parameters are 'svg' + 'style' and 'math' + 'style'.
+
+The vulnerable parameter is "kxsrc".
+
+Attribution
+
+The vulnerable parameter is "height".
+
+The vulnerable parameter in the above cross site scripting report is the "Subject" line of the .eml file.
+
+The vulnerable parameter in the above cross site scripting report is `name`.
+
+The vulnerable parameters from the above cross site scripting report are 'spay_formatted_price', 'spay_price', and 'spay_currency'.
+
+The vulnerable parameter in the above cross site scripting report is **Address.FirstName**.
+
+The vulnerable parameter seems to be the "file type" field in the upload section.
+
+The vulnerable parameters are First name, Last name, Company, and description field.
+
+None
+
+The vulnerable parameters in the above cross site scripting report are Product Description and Collection Description in both /admin/product and /admin/collections endpoints.
+
+The vulnerable parameter in the cross site scripting report is the "name of the user".
+
+The vulnerable parameter in this report is the image file name.
+
+The vulnerable parameter is lite:sess.
+
+The report does not provide specific names of the vulnerable parameters involved in this cross site scripting issue.
+
+The vulnerable parameters from the cross site scripting report are:
+
+1. First Name
+2. Last Name
+3. Project Name
+
+The vulnerable parameter in this report is the "name" field used to add a class.
+
+The vulnerable parameter is `caption`.
+
+The vulnerable parameter is not specified in the provided link or description.
+
+The vulnerable parameters in the above cross site scripting report are: "gnar_containerId", "grauth".
+
+The vulnerable parameter in the above cross site scripting report is `params[:disposition]`.
+
+The vulnerable parameters are:
+1. The URL parameter for https://www.starbucks.co.uk/shop/card/egift
+2. The URL parameter for https://www.starbucks.co.uk/shop/paymentmethod
+3. The injected id="checkoutButton" attribute in the link element.
+
+The vulnerable parameter here is the user's profile statement.
+
+The vulnerable parameter is "email=".
+
+The vulnerable parameter is the search box on pressable.com.
+
+The vulnerable parameter in the above cross site scripting report is the SVG file.
+
+The vulnerable parameter is the "name" of the "Approval rule".
+
+The vulnerable parameter is the collection name "><IMG SRC=x onerror=prompt(7)>".
+
+The vulnerable parameter in the request is the "Cookie" parameter specifically the "abt=1" section. It contains an executable script which is a sign of a Cross-Site Scripting (XSS) vulnerability. This malicious script is then injected back into the response, creating a security vulnerability.
+
+The vulnerable parameter is "return".
+
+The vulnerable parameter in the provided cross site scripting report is "q".
+
+None
+
+The vulnerable parameter in the above cross site scripting report is the "organization" field.
+
+The vulnerable parameter in this cross site scripting report appears to be the video description.
+
+The vulnerable parameter in the above Cross-Site Scripting report appears to be the path after /agecheck/.
+
+The vulnerable parameter in the above cross site scripting report is `href`.
+
+The vulnerable parameter in the above cross site scripting report is the Custom Logo link.
+
+The report doesn't specify the names of the vulnerable parameters involved in the cross site scripting exploit.
+
+The vulnerable parameter in the above cross site scripting report is "isJTN=".
+
+The vulnerable parameter in this cross site scripting report is the field with placeholder "Type title or paste a link here".
+
+The vulnerable parameter in the above Cross-Site Scripting (XSS) report appears to be ".xml".
+
+The vulnerable parameter is `#/?tags=`.
+
+The vulnerable parameters are `url` and `thumbnail_url`.
+
+The vulnerable parameter in the cross site scripting report is "name".
+
+The report does not mention any specific vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is "/api/v2/subscribe/".
+
+The vulnerable parameter in the above cross site scripting report is the "number" field in the MTN chat.
+
+The vulnerable parameter in the above cross site scripting report is the "LINKEDIN URL" field.
+
+The vulnerable parameters are:
+
+1. banned_word%5b%5d
+2. channel
+3. accessType
+4. msCountry
+5. pkCategoryHandle
+6. arHandle
+7. pageURL
+8. SEARCH_INDEX_AREA_METHOD
+9. unit
+10. register_notification_email
+11. URI-BASED
+
+None
+
+The vulnerable parameter in the above cross site scripting report is the "recipient" parameter.
+
+The vulnerable parameter in the above cross site scripting report is "status".
+
+The vulnerable parameter is `utm_source`.
+
+The vulnerable parameter in this case is the data parsed from the XLSX file, specifically the content used within the cell of the spreadsheet (script tag in the cell).
+
+The vulnerable parameters are "Home Body" and "onerror".
+
+The vulnerable parameter in the above cross site scripting report is the "Name of the Account".
+
+The vulnerable parameter is "Website (optional)".
+
+The vulnerable parameter in the above cross site scripting report is "data.notes".
+
+The report does not mention any specific vulnerable parameters.
+
+The vulnerable parameters are @_FILE and @_TEXTDESCRIPTIONEN.
+
+The report does not specify the names of the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is "cvo_sid1."
+
+The vulnerable parameter in the above cross site scripting report is "name".
+
+None
+
+The vulnerable parameter in the above cross site scripting report is "muber-id".
+
+The vulnerable parameter in the above cross site scripting report is the Report template name.
+
+The vulnerable parameter is "norw".
+
+The vulnerable parameter in the above cross site scripting report is "padding".
+
+The vulnerable parameter in the above cross site scripting report is `kubernetesNamespace`.
+
+The vulnerable parameter in the above cross site scripting report is "Client Custom Attribute 1".
+
+None
+
+The report doesn't provide specific vulnerable parameters.
+
+The report does not specify the name(s) of the vulnerable parameter(s).
+
+The vulnerable parameter in the cross site scripting report is `flow`.
+
+The vulnerable parameter in the above cross site scripting report is the "profile name".
+
+The vulnerable parameter is the Email Address input field.
+
+The vulnerable parameter is: search[city_id]
+
+1. Review text in www.zomato.com
+2. Search bar in developers.zomato.com
+3. Longitude and latitude in developers.zomato.com
+
+URL
+
+The vulnerable parameter in the above cross site scripting report is "profile_id".
+
+The vulnerable parameters from the above cross site scripting report are "fullname".
+
+The vulnerable parameter in the above cross site scripting report is the file name.
+
+The vulnerable parameter in the above cross site scripting report is "html".
+
+The report does not specify the name of the vulnerable parameter(s).
+
+The vulnerable parameter in the above cross site scripting report is "s".
+
+The vulnerable parameter here is "clan_id".
+
+The vulnerable parameter in this case is the "Subject" of the email file.
+
+The vulnerable parameter is the "Program Name".
+
+The vulnerable parameter is `ad_type`.
+
+The vulnerable parameter in this cross site scripting report is "comment".
+
+The vulnerability report does not specify the name of the vulnerable parameter(s) in the Cross-Site Scripting (XSS) report.
+
+The vulnerable parameter in the above cross site scripting report is the "add tag" functionality.
+
+The vulnerable parameter in the above cross site scripting report is "terminalId".
+
+The vulnerable parameter in the above cross site scripting report is "Referer".
+
+None
+
+The vulnerable parameter in the above cross site scripting report is `href`.
+
+The vulnerable parameter from the above cross site scripting report is "user".
+
+The vulnerable parameter in the cross site scripting report is the 'password' field during password reset time.
+
+The report does not explicitly mention the name of the vulnerable parameter(s) used in the cross-site scripting attack.
+
+The vulnerable parameter is the "banner block description".
+
+The vulnerable parameters are the "template field name" and the "query" parameter in the search page URL.
+
+The vulnerable parameter is `chart_title`.
+
+The report does not specify the names of the vulnerable parameters involved in the cross-site scripting issue.
+
+The vulnerable parameter is "back".
+
+The vulnerable parameters in the above cross-site scripting report are First name, Last name, Company name, and Title.
+
+The vulnerable parameters in the given report seem to be "████████", "███", "█████████", and "██████████".
+
+The report for the vulnerability isn't provided with the question. Please provide the information requested for further assistance.
+
+The vulnerable parameter is: Users
+
+The vulnerable parameter in the cross site scripting report is the search parameter in the URL.
+
+The vulnerable parameter is "x:confirm".
+
+None
+
+The vulnerable parameter from the above cross site scripting report is: q_13787.
+
+The report does not specify the names of the vulnerable parameters.
+
+The vulnerable parameter is: `FirstName`
+
+The vulnerable parameter in the cross site scripting report is "bk".
+
+The vulnerable parameter is `pr_zip_location`.
+
+The vulnerable parameter in the above cross site scripting report is the `title` value.
+
+The report does not provide specific vulnerable parameters.
+
+The vulnerable parameter in the report is `src` in `<img src=x onerror=alert(1)>`.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the given cross site scripting report is "og:url" in the meta property.
+
+The vulnerable parameter is not explicitly mentioned in the report. However, it could potentially be the markdown data being input and rendered via the 'kramed' package.
+
+The vulnerable parameter in the above cross site scripting report is the 'color' parameter of labels.
+
+The vulnerable parameter in the given cross-site scripting report is "BoxNote snippet".
+
+The vulnerable parameter in the above cross site scripting report is "recipe_url".
+
+The vulnerable parameters in the report are "note_html" and "cached_markdown_version".
+
+The vulnerable parameter in the above cross site scripting report is the **Project Name** field.
+
+The vulnerable parameter in the cross site scripting report is "referer".
+
+The vulnerable parameter in the above cross site scripting report is "search".
+
+The vulnerable parameter in the above cross site scripting report is "leverParameter".
+
+The vulnerable parameter in the above cross site scripting report is: "pathname".
+
+The vulnerable parameter in the above cross site scripting report is 'data'.
+
+The vulnerable parameter in this cross site scripting report is "value".
+
+The vulnerable parameter in the above Cross Site Scripting report is "Ranking formula".
+
+None
+
+The vulnerable parameters in the report are `e.data`, `t.action`, `r.height`, `n.url`, `s.isCollapsed`, and `a.origin`.
+
+The vulnerable parameter in this cross site scripting report is the "last name" field in the personal data section of the application.
+
+The report does not provide specific names of the vulnerable parameters involved in the cross site scripting issue.
+
+The vulnerable parameter in the provided cross site scripting report is "name".
+
+The vulnerable parameters in this report seems to be the "product name" during creation and "question" during review editing on the platform.
+
+The report does not provide specific details on the vulnerable parameters related to the cross site scripting issue.
+
+The vulnerable parameter is the user's e-mail address.
+
+The vulnerable parameter in the above cross site scripting report is "referer".
+
+The vulnerable parameter in the above cross site scripting report is "userId".
+
+The vulnerable parameter in this cross site scripting report is "payload_json".
+
+The vulnerable parameter in the above cross site scripting report is "base_url."
+
+The vulnerable parameter in the cross-site scripting report is "pagePath".
+
+The vulnerable parameter in this cross-site scripting report is 'data-disable-with'.
+
+The vulnerable parameters are `_shipping_state` and `_billing_state`.
+
+The vulnerable parameter in this case is the file upload functionality, specifically the Payload name (code injection).
+
+The vulnerable parameter in the cross-site scripting report is the "Name" field.
+
+onload
+
+The vulnerable parameter in the above cross site scripting report is the "name of a file".
+
+The vulnerable parameter is not clearly mentioned in the report.
+
+The vulnerable parameters are:
+
+1. uuid
+2. email
+3. brand_pretty_url
+
+The vulnerable parameter in the above cross site scripting report is the link used in the `Add media` section.
+
+The vulnerable parameter is the 'Option name / value' in the 'Variants' section.
+
+playerready
+
+The vulnerable parameter in the above cross site scripting report is "link777".
+
+The vulnerable parameters in the report are: eventProxyFunction, rtmpStream, rtmpConnection.
+
+tags
+
+The vulnerable parameter in the above cross site scripting report is the "Title" of the discussion/question.
+
+The vulnerable parameter in this report is the _Name_.
+
+The vulnerable parameter in the above cross-site scripting report is the document content in the 'Suggest edits' page.
+
+The report does not specify the names of the vulnerable parameters.
+
+The vulnerable parameters are the first name and last name fields.
+
+None
+
+The vulnerable parameter in the report is the outdated Jetpack 3.9.1 plugin on the blog.
+
+The vulnerable parameter in the above cross site scripting report is "file".
+
+Bio/Quote
+
+The report does not specifically mention any vulnerable parameters.
+
+The report does not provide specific vulnerable parameter(s).
+
+The vulnerable parameter in the above cross site scripting report is "wishlistComment".
+
+The vulnerable parameter is "nrnew-interval".
+
+The vulnerable parameter in the above cross site scripting report is "page".
+
+The vulnerable parameter is the "email" field.
+
+The vulnerable parameters in the above cross site scripting report are `e` and `n` used in the `t.deparam = h` function, and `hookName` and `hookFunction` in `pInstall._convertStringHooksToFunctions` function.
+
+The vulnerable parameters are `name` in the routes `/poc1` and `/poc2`.
+
+None
+
+The vulnerable parameters in the above cross site scripting report are: 
+
+1) filename 
+2) Content-Type
+3) my_file
+4) params
+5) auth
+6) key
+7) template_id
+
+The vulnerable parameter is the `Name` field of the Browser apps feature.
+
+The vulnerable parameter in the cross-site scripting report is the URL parameter from the "poc.php?url={URL of the Text file in wordpress path}" script.
+
+None
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in this case is the "content" parameter in the POST request.
+
+The vulnerable parameter in the URL appears to be "1139". This allows injection of unsafe HTML into the album script.
+
+The vulnerable parameter in the above cross site scripting report is `url`.
+
+The vulnerable parameter in the cross-site scripting report is "q_21677".
+
+The vulnerable parameter in the above cross site scripting report is 'SAMLResponse'.
+
+The vulnerable parameters in the above cross site scripting report are "currency" and "company's information".
+
+The vulnerable parameters in the above cross site scripting report are `$file_description` and `$description`.
+
+The vulnerable parameter in this case is the hardcoded front-end code in the algo debugger, specifically the expression "get_datetime().strftime("%Y-%m-%d %H:%M:%S")#__QUANTOPIAN__".
+
+The vulnerable parameter in the given cross site scripting report appears to be "s".
+
+The vulnerable parameter in this report is the filename of the downloading torrent file.
+
+The vulnerable parameter in the above cross site scripting report is `src`.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the cross-site scripting report is the `data-original` attribute.
+
+The vulnerable parameter in the given cross site scripting report is "email".
+
+The vulnerable parameter in the above cross site scripting report is `skill_name`.
+
+The vulnerable parameters in this report are "build" and "other".
+
+The vulnerable parameter in the above cross site scripting report is the comment field.
+
+The vulnerable parameter in the above cross site scripting report is "channel".
+
+The vulnerable parameter is `q`.
+
+The vulnerable parameter in the above cross site scripting report is the "Signature" field.
+
+The vulnerable parameters in the above cross site scripting report are "name" and "email".
+
+The report does not specify the name of the vulnerable parameter(s).
+
+The vulnerable parameter is `highlighterId`.
+
+The vulnerable parameter is `url`.
+
+The vulnerable parameters in the above cross site scripting report are `color_scheme` and `state`.
+
+The vulnerable parameter is the "new password" field.
+
+The vulnerable parameter in this cross-site scripting report is "annoucement text".
+
+The vulnerable parameter in the given XSS report is "user".
+
+The vulnerable parameters in this cross site scripting report are the template literal strings: '`+alert`' and '${alert()}'.
+
+The vulnerable parameter in the above cross site scripting report is the "username".
+
+The vulnerable parameter is `Database Name`.
+
+The vulnerable parameter is "type".
+
+The vulnerable parameter in this Cross Site Scripting report is "src" within the "data" object.
+
+The vulnerable parameter in the above cross site scripting report is "p".
+
+The vulnerable parameter in the above cross site scripting report is "target".
+
+The vulnerable parameter in this case is the `New Comment` feature that allows the uploading of an arbitrary file on the OKRs page.
+
+The vulnerable parameter in the above cross site scripting report is the "App Description" field.
+
+The vulnerable parameter in the above cross site scripting report is "x".
+
+The vulnerable parameter in the above cross site scripting report is the Cookie input VID.
+
+The report does not specify the exact names of the vulnerable parameters involved in the reflected Cross-site Scripting (XSS) attack.
+
+The vulnerable parameter in the above cross site scripting report is `links`.
+
+The vulnerable parameter is the "folder name" field.
+
+The vulnerable parameter in the cross site scripting report is: puser.
+
+The vulnerable parameter in the given cross site scripting report is "atb".
+
+The vulnerable parameter in the cross site scripting report is "a".
+
+The vulnerable parameter is 'advanced_val'.
+
+The vulnerable parameters are `$request`, `$response`, and `$node`.
+
+The vulnerable parameter in the above Cross Site Scripting (XSS) report is "message content".
+
+The vulnerable parameter in the above cross site scripting report is "vendor_description".
+
+The vulnerable parameter in this cross site scripting report is `failure_message`.
+
+None
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is the "Comments" box.
+
+The vulnerable parameter seems to be the Facebook page name.
+
+The vulnerable parameters in the above cross site scripting report are `class` attributes and certain `onclick` event listeners.
+
+Translator's name
+
+The vulnerable parameters in the above cross site scripting report are "ID of the [adsense tag to display this ad]" and "Name".
+
+The vulnerable parameter in the above cross site scripting report is "message".
+
+The vulnerable parameter in the above cross site scripting report is `User-Agent`.
+
+The vulnerable parameter in this report appears to not be explicitly named. However, it seems to be linked to the "href" attribute in the "a" tag, specifically where it allows the "onmouseover" JavaScript event.
+
+The vulnerable parameters here are the file name and the title on the properties page.
+
+The vulnerable parameters are:
+
+- document.URL
+- varCoveoSearchResultPageURL
+- varDocumentReferrer
+- varStaticCoveoSearchResultPageURL
+- document.referrer
+- referrer
+- myk
+- CoveoSearchUrl
+
+The report does not explicitly mention any vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is "udi-id".
+
+The vulnerable parameter in the above cross site scripting report is 'Referer'. It appears to allow the injection of a script through its value.
+
+The vulnerable parameters are "Etunimi" and "Sähköposti".
+
+The vulnerable parameter in the above cross site scripting report is `County`.
+
+The vulnerable parameters are "afterReload" and "MailboxStatusAutoCall".
+
+The vulnerable parameters in the above cross site scripting report are `xtl_amount_type`, `xtl_coupon_code`, and `xtl_amount`.
+
+The vulnerable parameter in the above cross site scripting report is `period_preset`.
+
+The report does not explicitly mention the names of the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is "comment_body".
+
+The report does not provide specific parameter names which are vulnerable to the XSS attack.
+
+The vulnerable parameter from the above cross site scripting report is `name`.
+
+The vulnerable parameter is `event.origin`.
+
+The vulnerable parameters from the above cross site scripting report are:
+
+1. "Updated Date:"
+2. "More than [ ] minutes ago"
+3. "In range [   ] to [   ]" 
+
+in the links 
+
+1. "https://jira.roblox.com/issues/?filter=-8"
+2. "https://jira.roblox.com/issues/?filter=-7"
+3. "https://jira.roblox.com/issues/?filter=-6".
+
+The vulnerable parameter in the above cross site scripting report appears to be the `#%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3Ejavascript:alert%280%29//%00` at the end of the URL.
+
+The report does not provide a specific name for the vulnerable parameter(s). It only refers to the user's ability to inject a malicious script into the URL.
+
+The vulnerable parameter in the above cross site scripting report is **Close text**.
+
+The vulnerable parameters in the above cross site scripting report are "view" and "ionUrl".
+
+The vulnerable parameter in the above cross site scripting report is 'dataset owner'.
+
+The report does not provide specific names of the vulnerable parameters in the cross site scripting attack.
+
+The vulnerable parameters from the above cross site scripting report are:
+- PageLink
+- ResponseHandlingLanguage
+- UID
+
+The vulnerable parameter in the report is "view".
+
+The vulnerable parameter in the above cross site scripting report is the "description" parameter used in the `addKeyBinding` method.
+
+The vulnerable parameter in the URL appears to be "what" and/or "where".
+
+The vulnerable parameter in this case appears to be the search field.
+
+The vulnerable parameter in the above cross site scripting report is `href` in the HTML tag `<a>`.
+
+The vulnerable parameter in the cross site scripting report is "id" in the URL.
+
+None
+
+Google play app id
+
+The vulnerable parameter is: image_url
+
+The vulnerable parameter in the cross site scripting report is "Название компании" (Company Name).
+
+The vulnerable parameter in the above cross site scripting report is "Search".
+
+The vulnerable parameter in the above cross site scripting report is the "SearchDomain" parameter in the URL of the Search Center.
+
+The vulnerable parameter in this case is "search[order]".
+
+The vulnerable parameter in the above cross site scripting report is the group's name.
+
+The vulnerable parameters in the above cross site scripting report are:
+
+- `/all/` directory of `user.imgur.com`
+- `embed page` of an image, such as `/a/IMAGE_ID/embed`
+- Upon adding a `/embed`
+- Self-xss specifically when uploading an image in the beta version
+- `navigator.clipboard.writeText()`
+- Saved passwords in Firefox
+- Iframe counting
+- Imgur account settings/password information
+- Clickjacking trick for another XSS
+- The X-Frame-Options attribute.
+
+The report does not specify the names of the vulnerable parameters.
+
+The vulnerable parameters are `city_id` and `language_id`.
+
+The vulnerable parameter in the above Cross Site Scripting report is "███=".
+
+The vulnerable parameter in the above cross site scripting report is "p".
+
+The vulnerable parameters are `user.href()` and `user.display()`.
+
+The vulnerable parameter in this cross-site scripting report appears to be the album creation feature on Imgur.
+
+The vulnerable parameter in the above cross site scripting report is `callback`.
+
+The report does not provide specific names of the vulnerable parameters involved in the cross site scripting issue.
+
+v
+
+The vulnerable parameter is the "comments" parameter on the Profile Comments page.
+
+The report doesn't provide specific names of the vulnerable parameters.
+
+The vulnerable parameter from the cross site scripting report is "authorization_endpoint".
+
+The vulnerable parameter in the above cross site scripting report is "installation_id".
+
+The vulnerable parameter is "referer".
+
+The vulnerable parameter in the above cross site scripting report is: msgBody.
+
+The vulnerable parameter in the cross site scripting report is "errorMessage".
+
+The vulnerable parameter in the provided cross site scripting report appears to be "what" and "where".
+
+The vulnerable parameter is "Company".
+
+The vulnerable parameter in the cross site scripting report is `lesson[goals]`.
+
+url
+
+The vulnerable parameters in the above cross site scripting report are:
+
+- href
+- class
+- query
+
+The vulnerable parameter in the above cross site scripting report is "Category".
+
+The vulnerable parameter in the above cross site scripting report is `Body`.
+
+The vulnerable parameter is `section_type`.
+
+The vulnerable parameter is the project name.
+
+The vulnerable parameter appears to be in the URL and form action parameters, specifically where it says "/article/articleview/ALERT"><script>alert(1)</script>". This is an example of a Cross-Site Scripting (XSS) injection where malicious scripts are inserted into trusted websites.
+
+The vulnerable parameter is the URL input.
+
+The report does not explicitly mention any vulnerable parameters.
+
+The vulnerable parameters are the "filename" and the "src" attribute of the `iframe` tag.
+
+The vulnerable parameter in the cross-site scripting report is the "Description" part of the survey in the Polls app.
+
+The vulnerable parameter in the cross site scripting report is the "author's website".
+
+The vulnerable parameter in the above cross site scripting report is the "content" parameter.
+
+None
+
+The vulnerable parameter in the above cross site scripting report is the link inserted into the text object.
+
+The vulnerable parameters in the above cross site scripting report are "subscribeNonce" and "referer".
+
+The vulnerable parameter is "target".
+
+The vulnerable parameter is the "full name" of the non-admin user.
+
+The vulnerable parameter in the cross-site scripting report is: q_13794.
+
+URL
+
+first name, last name, skype account
+
+The vulnerable parameter from the above cross site scripting report is "prefixRank".
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter is the "Editor link".
+
+The vulnerable parameter in the above cross site scripting report is the "Name" field for creating a new event in the Calendar & Events section.
+
+The vulnerable parameter is `bookmarkPageId`.
+
+The vulnerable parameter in the above cross site scripting report is Media Embed.
+
+The vulnerable parameter in the above cross site scripting report is "txHash".
+
+Group name
+
+The vulnerable parameter in the above cross site scripting report is "hostname".
+
+The vulnerable parameter appears to be "DIFFICULT".
+
+The vulnerable parameter in the above cross site scripting report is "uid".
+
+The vulnerable parameter in the cross-site scripting report is the SVG file upload functionality.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is 'xxslots'.
+
+The vulnerable parameter in the above cross site scripting report is `configUrl`.
+
+The report does not mention any specific vulnerable parameters.
+
+The vulnerable parameter is `merge_request[source_branch]`.
+
+The vulnerable parameter in the above cross site scripting report appears to be `(A(%22onerror='alert%601%60'testabcd))`.
+
+The report does not mention any specific vulnerable parameters.
+
+The report does not specify any vulnerable parameters.
+
+The vulnerable parameters in the provided cross site scripting report are `success_url` and `decline_url`.
+
+The vulnerable parameter is the URL path.
+
+The vulnerable parameters in the above cross-site scripting report are:
+
+1. action
+2. token
+3. frm_email
+4. frm_zip5
+5. cmd_submit
+
+The vulnerable parameter in the above cross site scripting report is the "filename".
+
+Subject
+
+The report does not provide specific names of the vulnerable parameters.
+
+`</textarea><img src onerror=alert(1)>`
+
+Time-of-Day Format
+
+jsinitfunctio%gn
+
+The vulnerable parameter appears to be the "username" field.
+
+The vulnerable parameter is "src".
+
+The vulnerable parameters in the above cross site scripting report are 'mktoResponse', 'for', 'error', 'data', 'formId', and 'followUpUrl'.
+
+The vulnerable parameter is: //secure.gaug.es/track.js
+
+The vulnerable parameter appears to be the image name.
+
+The vulnerable parameter is `text` in the `<AutolinkerWrapper text={this.state.text}/>` line.
+
+The vulnerable parameters in the provided cross-site scripting report are "upaHandle" and "upaName".
+
+The vulnerable parameter is the `README.textile` file.
+
+The vulnerable parameter in the above cross site scripting report is "vote".
+
+The vulnerable parameter in the report is `setJavaScriptEnabled(true)`.
+
+The vulnerable parameter is `media[23168664]`.
+
+First Name
+
+The vulnerable parameter in the above cross site scripting report is "url".
+
+The report does not provide specific names of the vulnerable parameters involved in the cross site scripting.
+
+The vulnerable parameter is the "Name" form.
+
+The vulnerable parameter in this case is the 'success message' field.
+
+private note
+
+The vulnerable parameter is `s.homepage`.
+
+onMouseOver
+
+The vulnerable parameter is not explicitly named in the report.
+
+The report does not explicitly mention the name of the vulnerable parameter(s).
+
+The vulnerable parameter is 'fontFamily'.
+
+The vulnerable parameter in the above cross site scripting report is the "url" parameter in the redirection url "https://www.semrush.com/redirect?url=".
+
+The report doesn't mention any specific vulnerable parameters.
+
+The vulnerable parameters in the given cross site scripting report are:
+- twitter:title
+- twitter:image
+- og:title
+- og:image
+- snapcode
+- username
+
+The vulnerable parameter is the comment box.
+
+The vulnerable parameter in the above cross site scripting report is the "Name" field.
+
+The vulnerable parameters in the above cross site scripting report are the comment section and the body/title of the blog post.
+
+The vulnerable parameters are `extraData`, `message`, and `title`.
+
+The vulnerable parameter in the above cross site scripting report is `Name`.
+
+The report does not provide specific names of the vulnerable parameters.
+
+None
+
+The vulnerable parameter is "signup_type".
+
+The vulnerable parameter in this cross-site scripting report is the "message" parameter. This is where the payload is inserted and executed.
+
+The vulnerable parameter here is the image source URL (src) in the rich text editors.
+
+The vulnerable parameters in the above cross site scripting report are "title" and "auth_url".
+
+The vulnerable parameter in the above cross site scripting report is `javascript:` URI.
+
+The vulnerable parameter in the above cross site scripting report is *oauth_callback*.
+
+The vulnerable parameters in the provided cross site scripting report are "title" and "description" in the ad submission form.
+
+The vulnerable parameter in the above cross site scripting report is the URL input.
+
+The vulnerable parameters are "cookieName" and "name".
+
+The vulnerable parameter in the given report is ████████.
+
+The vulnerable parameter is `@name`.
+
+The vulnerable parameter in the above cross site scripting report is the social networking button url.
+
+The vulnerable parameter in the above cross-site scripting report is 'value'.
+
+The report does not specify the name of the vulnerable parameter(s).
+
+The vulnerable parameter in the above cross site scripting report is "media_code=".
+
+The vulnerable parameters are not specifically named in this report, although it mentions that the script is inserted into all parameters except FROM_SIGN and FROM_TOKEN.
+
+The vulnerable parameters in the above cross site scripting report are "email" and "Override Endpoint Address".
+
+None
+
+The vulnerable parameter in the above cross-site scripting report is the URL of the website (team.badoo.com) itself.
+
+The vulnerable parameter is "stickerId".
+
+The vulnerable parameter in the above cross site scripting report is ``` message[content] ```.
+
+The vulnerable parameter seems to be "photoUrls".
+
+The vulnerable parameter here is the "search group name" in the Customers.
+
+The vulnerable parameter in this cross site scripting report is the "Description" field.
+
+The report does not mention any specific vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is `condition_name`.
+
+The vulnerable parameter in the report is the `README.rst` file.
+
+The report does not provide specific vulnerable parameter names.
+
+The vulnerable parameter in the above cross site scripting report is "v".
+
+The vulnerable parameter in the above cross site scripting report is the "name" of the application.
+
+The vulnerable parameter in the above cross site scripting report is the URL: https://wholesale.shopify.com/asd%27%3Balert%28%27XSS%27%29%3B%27
+
+The vulnerable parameter in the cross site scripting report is the name of the user account.
+
+The vulnerable parameter in the above cross site scripting report is the "Default initial branch name".
+
+Text (HTML Field)
+
+The vulnerable parameter in the above cross site scripting report is the **Name** field.
+
+The vulnerable parameter in the above cross site scripting report is "loc".
+
+The vulnerable parameters are:
+**ctx[othersDriving][ma_gallup][count]**
+**ctx[ownDriving][ma_gallup][count]**
+
+The vulnerable parameter in the above cross site scripting report is "manual_post[link]".
+
+The vulnerable parameter in the given cross-site scripting report is `callback`.
+
+The vulnerable parameters are "product name" and "collection".
+
+The vulnerable parameter in the given URL appears to be "███".
+
+The report does not specifically mention any vulnerable parameters.
+
+Testimonial name
+
+The vulnerable parameter in the above cross site scripting report is "LocaleID".
+
+The vulnerable parameters are the file and directory names.
+
+The vulnerable parameter is 'cName'.
+
+The vulnerable parameter in the above cross site scripting report is `setPerPage`.
+
+The vulnerable parameter is card[name].
+
+The vulnerable parameters seem to be the URL links within the user input fields for comments/tasks/commits. However, specific parameter names are not provided in the report.
+
+jsinitfunctio%gn
+
+The vulnerable parameter in the above cross site scripting report is "where".
+
+The vulnerable parameter is loopState[moduleId].
+
+The report does not provide specific names for the vulnerable parameters involved in the cross site scripting issue.
+
+The vulnerable parameter is "email".
+
+jsinitfunctio%gn
+
+The report does not specify the names of the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is the URL parameter in GET request.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The report does not specifically mention any vulnerable parameters.
+
+The text provided doesn't include a cross site scripting report, so it's impossible to identify any vulnerable parameters.
+
+The vulnerable parameters are the file content type and HTML injection.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is "item".
+
+The vulnerable parameter in the above cross site scripting report is '__proto__'.
+
+The vulnerable parameter in the cross-site scripting report is the `filename`.
+
+The report doesn't provide specific details or attachments about the vulnerable parameter(s). Therefore, I cannot identify them.
+
+The vulnerable parameter in the above cross site scripting report is the **gfmHtml** variable.
+
+The report does not provide specific names of the vulnerable parameters related to the cross-site scripting issue.
+
+The vulnerable parameter in the above cross site scripting report is the group name.
+
+The report does not explicitly name any vulnerable parameters.
+
+The vulnerable parameter in the above Cross Site Scripting report is the "Company name".
+
+The vulnerable parameter in the above cross site scripting report is **userPage**.
+
+The vulnerable parameter in this report isn't explicitly named but the vulnerability seems to be associated with handling chat-related content or URL in the Shopify Chat application.
+
+The vulnerable parameter is ```location```.
+
+The vulnerable parameter is the `data-placeholder` in the `class="composer__input___Cggy"` div.
+
+The report does not explicitly name any vulnerable parameters.
+
+The report doesn't explicitly mention the name of the vulnerable parameter(s).
+
+The vulnerable parameters are Track, Album, Artist.
+
+The vulnerable parameter in the report appears to be the attribute parameter in the explorer page of the website.
+
+The vulnerable parameter here is the "filename".
+
+The vulnerable parameter appears to be "archive".
+
+javascript: URI
+
+jsinitfunctio%gn
+
+location
+
+team name
+
+The report does not provide specific names of the vulnerable parameters related to the cross-site scripting issue.
+
+The vulnerable parameter here is the "search box".
+
+The vulnerable parameter in the above cross site scripting report is "ad_type".
+
+The vulnerable parameter in the above cross site scripting report is "frm_email".
+
+The vulnerable parameter in the above cross site scripting report is the "Navigation icon".
+
+The vulnerable parameters are "Channel Name" and "Name" on the profile settings page.
+
+The vulnerable parameter in the above cross site scripting report is "trg".
+
+The vulnerable parameter in this cross site scripting report is the URL.
+
+None
+
+The vulnerable parameter in the cross site scripting report is the "website" field.
+
+The vulnerable parameter is the "workspace name" input.
+
+The vulnerable parameters in the cross-site scripting report are 'name' and 'is_private'.
+
+The vulnerable parameter in the report is not directly named, but it appears to be within the <style> HTML tag where user-supplied input is not properly sanitized.
+
+none
+
+The vulnerable parameters in the above cross site scripting report could be any of the fields filled with the payload (beyond the valid name and email address). The exact names of these parameters are not specified in the report.
+
+The vulnerable parameter in the given cross site scripting report is "f".
+
+The vulnerable parameters are Primary, Secondary, Tertiary, Image and URL attributes.
+
+The vulnerable parameter in the report is "███=".
+
+The vulnerable parameter in the above cross site scripting report is the content of the message.
+
+The vulnerable parameter in the above cross site scripting report is "return".
+
+The vulnerable parameter is "Search".
+
+The vulnerable parameter in the given report is "rhsearch". It is used within the URL to inject malicious scripts.
+
+onmouseover, bad
+
+The vulnerable parameter in this case is the "email[original]" in the POST request.
+
+The vulnerable parameter in the above cross site scripting report is `data.url`.
+
+The vulnerable parameter in this case is the Froala editor's code editor view, specifically where it allows iframe injection.
+
+The vulnerable parameter in the given cross-site scripting report appears to be within the URL itself, specifically in the part "#<img/src/onerror=alert(123)>". However, this is a general attack prompt and not a specific parameter in the traditional sense. As such, one may also argue that there are no specifically named vulnerable parameters provided in this report.
+
+The report does not explicitly mention the name of the vulnerable parameter(s). However, based on the context, the vulnerable JavaScript code seems to involve the use of "document.URL" parameter, where the URL appears to be directly included in the dynamically generated HTML content.
+
+The vulnerable parameter in the above cross-site scripting report is `data_url`.
+
+The vulnerable parameters are the "First Name" and "Last Name" text fields.
+
+The vulnerable parameter in the above cross site scripting report is "query".
+
+The vulnerable parameters are not explicitly named in the report.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the cross-site scripting report is `flowchart.htmlLabels`.
+
+The vulnerable parameter in the above cross-site scripting report is the user's own username.
+
+The vulnerable parameter from the above cross site scripting report is "url".
+
+The vulnerable parameter in the cross site scripting report is "q".
+
+The vulnerable parameter in the above cross site scripting report is "bgcolor".
+
+The vulnerable parameter is the "group name".
+
+The vulnerable parameters are "error", "error_description", and "error_hint".
+
+The report does not provide specific vulnerable parameter names.
+
+The vulnerable parameter is `file title`.
+
+The vulnerable parameter in this cross site scripting report is the filename.
+
+jsinitfunctio%gn
+
+The class name `"><img src=x onerror=alert(4)>` is the vulnerable parameter in the cross site scripting report.
+
+The vulnerable parameters are `Disliked_reviewers`, `Liked_reviewers`, and `Reasons`.
+
+The vulnerable parameters are `subid_` and `title_`.
+
+The vulnerable parameters are the Audio and Video URLs.
+
+The name of the vulnerable parameter in the above cross-site scripting report is "AutoLinker and Markdown".
+
+The vulnerable parameter is "Body".
+
+The vulnerable parameter in this cross site scripting report is the Search input field.
+
+The vulnerable parameter in this cross site scripting report is the "answers" field in the new poll creation form.
+
+The vulnerable parameter in the above cross site scripting report is the filename.
+
+The vulnerable parameter is ```pathname```.
+
+The vulnerable parameter is **dbName**.
+
+The vulnerable parameter in the above report is the "Host" header.
+
+The report doesn't specify the names of the vulnerable parameters.
+
+The vulnerable parameter is: product[soundcloud_link_attributes][link]
+
+The vulnerable parameter in the above cross site scripting report is the URI Path parameter.
+
+The vulnerable parameter in the above cross site scripting report is "search".
+
+The vulnerable parameters in the given cross site scripting report are 'buttonText', 'buttonImageURL', 'buttonTextStyle', 'buttonAction', and 'buttonCursor'.
+
+None
+
+The vulnerable parameter in the above cross site scripting report is the "department name".
+
+The vulnerable parameter seems to be the "currency formatting".
+
+The vulnerable parameter in this report is "advertiser".
+
+The vulnerable parameters in the above cross site scripting report are:
+
+1. `data-sourcepos` in SyntaxHighlightFilter.
+2. `name` attribute in gl-emoji.
+
+The vulnerable parameter in the above cross site scripting report is "jlbqg<script>alert(1)</script>b7g0x".
+
+email address box
+
+The report does not clearly specify the vulnerable parameter(s).
+
+The vulnerable parameter in the report is "target".
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the given link appears to be "title".
+
+The vulnerable parameter in the above cross site scripting report is 'onmouseover'.
+
+The vulnerable parameter in the above cross site scripting report is the "Title" field.
+
+The vulnerable parameters in the above cross site scripting report are "Page slug", "Title", and "Content".
+
+The vulnerable parameter in the above cross site scripting report is: search[user_id]
+
+None
+
+The vulnerable parameter is "staticDomainName".
+
+The vulnerable parameter in the above cross site scripting report is `c`.
+
+The vulnerable parameter is `params` in the `javascript_tag "var json=#{params.to_json}"` line.
+
+The vulnerable parameter is the username input string.
+
+The vulnerable parameter in the above cross site scripting report is the "syntax highlight" feature which is not properly encoding or escaping HTML constructs in source code listings.
+
+The report doesn't specify any vulnerable parameters.
+
+There appear to be no specific vulnerable parameters mentioned in the report.
+
+The vulnerable parameters are "target%g" and "uid%g".
+
+None
+
+The vulnerable parameter in the cross site scripting report is the "name" field.
+
+The vulnerable parameter is: Training Description.
+
+First Name, Last Name
+
+The vulnerable parameter in the above cross site scripting report is the "description" field in the product details.
+
+The vulnerable parameter in the given cross site scripting report is $callback.
+
+The vulnerable parameter in the above cross site scripting report is the "notas de cliente" field.
+
+The vulnerable parameter in the given URL is "succUrl".
+
+The report does not explicitly mention the name of any vulnerable parameters.
+
+The vulnerable parameter is `media[11111111]`.
+
+The vulnerable parameter in the above cross site scripting report is 'file'.
+
+The vulnerable parameter in the above cross site scripting report is "auth".
+
+The vulnerable parameter in the above cross site scripting report is `?tx_id=`.
+
+The vulnerable parameter in this cross site scripting report is the "onload" attribute.
+
+sub_div_ofc_sym_cd
+
+node
+
+The vulnerable parameter in the above cross site scripting report is the `javascript:` pseudo-protocol within the SyntaxHighlighter plugin.
+
+The vulnerable parameter is "MD".
+
+The vulnerable parameters are `redirect` and `url`.
+
+The report does not provide specific vulnerable parameter(s).
+
+The vulnerable parameter is "name".
+
+The vulnerable parameters are "Project URL", "Issues URL", and "New issue URL".
+
+The vulnerable parameter is the "group name".
+
+The vulnerable parameter in the above cross site scripting report is the "Display Name" section.
+
+The vulnerable parameter in this cross site scripting report is the "branch name".
+
+The report does not explicitly mention any vulnerable parameters.
+
+The vulnerable parameter in this cross site scripting report is "name".
+
+The vulnerable parameter in the above cross site scripting report is: "note_item%5Bswf%5D".
+
+original_referer
+
+The vulnerable parameter is `source_branch`.
+
+The vulnerable parameter in the above cross site scripting report is the Facebook Page name.
+
+The vulnerable parameter appears to be "autoplay".
+
+The vulnerable parameter mentioned in the above cross site scripting report is `emailbody`.
+
+The vulnerable parameter is `$mp->getProductBlockID()`.
+
+The vulnerable parameter in the above cross site scripting report is "your full name".
+
+The vulnerable parameters in the above cross site scripting report are the 'Body' textarea and the 'Upload File' button.
+
+The vulnerable parameter in the cross site scripting report is the filename (`file`).
+
+The vulnerable parameter in the above cross site scripting report is `$_POST['txtCode'];`.
+
+The report does not explicitly mention any vulnerable parameters.
+
+The vulnerable parameter is "Name".
+
+The vulnerable parameter in the above cross site scripting report is `js`.
+
+The report does not provide specific names of the vulnerable parameters.
+
+First & Last Name
+
+The vulnerable parameters in the cross-site scripting report are 'data-site-root' and 'data-locale-root'.
+
+The vulnerable parameter in the above cross site scripting report is "text".
+
+The vulnerable parameter is the account name field.
+
+The vulnerable parameter in the above cross site scripting report appears to be the 'url' parameter within the 'poc' function.
+
+The vulnerable parameter in the given Cross Site Scripting report is "jsinitfunctio%gn".
+
+The vulnerable parameter in the above cross site scripting report is "household.householdID".
+
+The vulnerable parameter is "query[]".
+
+The vulnerable parameter in the cross site scripting report is the search text, which is used in the URL.
+
+The vulnerable parameters in the given URLs are:
+
+1. "search"
+2. "c"
+3. "o"
+4. "c"
+5. "tags", "title", "submit".
+
+The vulnerable parameter is "error".
+
+The vulnerable parameter in this cross site scripting report is the `widget-IDs` that use HTTPS to load JavaScript. Specifically, the parameter from the Uberflip "page widgets" under the `/read/page_widget/XXX` function where `XXX` is a numeric ID of a widget.
+
+The report does not specify any vulnerable parameters.
+
+The vulnerable parameter in this report is the product description.
+
+The report does not specify any vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is the VID cookie.
+
+The vulnerable parameter in the cross site scripting report is `-back`.
+
+The vulnerable parameter is the document title.
+
+The vulnerable parameters in the above cross-site scripting report are: 
+
+1) data-template 
+2) data-content 
+3) data-title
+
+The vulnerable parameter in the above cross site scripting report is "Navigation icon".
+
+The vulnerable parameter is "username".
+
+The vulnerable parameter is **return_to**.
+
+The vulnerable parameters in the URLs given are `prefn1` and `prefv1`.
+
+The vulnerable parameters are title and body.
+
+The vulnerable parameter in the above cross site scripting report is: **<img src=1 onerror=alert(document.domain)>**
+
+The report does not provide specific names of vulnerable parameters.
+
+The report doesn't provide specific names of the vulnerable parameters involved in the cross site scripting report.
+
+The vulnerable parameter in the above cross site scripting report is "redirect".
+
+The vulnerable parameter in the cross site scripting report is: "><script>alert(1)</script>
+
+The vulnerable parameter in the above cross site scripting report is the "Subject" parameter.
+
+The vulnerable parameter is the "address" field in the user profile.
+
+The vulnerable parameter is "exec".
+
+The vulnerable parameter in the above cross-site scripting report appears to be "██████".
+
+The vulnerable parameter in the above cross site scripting report is "URL".
+
+The vulnerable parameter here appears to be the "subject" parameter when creating a new topic.
+
+The vulnerable parameters are "val" in the lines:
+
+html.push('<li><a href="' + path + '/' + val + '">' + val + '</a></li>');
+
+and 
+
+html.push('<li><a download href="' + path + '/' + val + '">' + val + '</a></li>');
+
+These parameters are vulnerable as they are used to construct HTML without any sort of escaping or sanitization, leading to the possibility of Cross-Site Scripting (XSS) attacks.
+
+The vulnerable parameter in the above cross site scripting report is "category".
+
+The report does not specify any vulnerable parameter(s).
+
+The vulnerable parameter in the above cross site scripting report is the image url of recommendations in the reviewer profile.
+
+First Name
+
+onmouseover
+
+The vulnerable parameter in the above cross site scripting report is the "Redirect address".
+
+None
+
+The vulnerable parameter in this cross-site scripting report is the file name.
+
+The report does not explicitly mention the name of the vulnerable parameter(s).
+
+The vulnerable parameters in the above cross site scripting report are "user" and "repo".
+
+The vulnerable parameter in the above cross site scripting report is "Käyttäjätunnus".
+
+The vulnerable parameter is `relsexp`.
+
+The vulnerable parameter(s) in the above cross site scripting report are "params[vars][logo][file]" and "params[vars][logo][link]".
+
+The vulnerable parameter in this cross site scripting report is the HTTP header "Referer".
+
+The vulnerable parameter in the above cross site scripting report is "image_upload".
+
+The vulnerable parameters in the above cross site scripting report are:
+
+1. `class`
+2. `style`
+3. `data-*`
+
+The vulnerable parameter is the group name.
+
+The vulnerable parameters identified from the above cross site scripting report are:
+
+1. `random`
+2. `other`
+3. `again`
+
+The vulnerable parameter is "Description".
+
+The vulnerable parameter in this cross site scripting report is `price_list[csv_file_name]`.
+
+The vulnerable parameter in the above cross site scripting report is "bjbxm</script><script>alert(1)</script>xrii5".
+
+The vulnerable parameter is the filename.
+
+The vulnerable parameter in the above cross-site scripting report is "?s=".
+
+The vulnerability report does not specify any parameter names.
+
+The vulnerable parameter is "site_index".
+
+playerID
+
+The vulnerable parameter is '<script>console.log("hello");</script>'.
+
+The vulnerable parameter in the above Cross-Site Scripting report is "encodedForm".
+
+The vulnerable parameter in the above cross site scripting report is "document.location.hash".
+
+The vulnerable parameters in the cross-site scripting report appear to be 'accesskey' and 'onclick'.
+
+The vulnerable parameter in the above cross site scripting report is the customer's "first name" field.
+
+The vulnerable parameter is the "vat number".
+
+The vulnerable parameter in the above cross site scripting report is "video_id".
+
+The vulnerable parameter in this cross site scripting report is the "description" parameter.
+
+The vulnerable parameter in the above cross site scripting report is `p`.
+
+The vulnerable parameter in the cross site scripting report is `NEW_RELIC_LABELS`.
+
+The vulnerable parameter in this cross site scripting report is "contextPath".
+
+The vulnerable parameter is "receipt".
+
+The vulnerable parameter in the above cross site scripting report is "html".
+
+The report does not mention any specific vulnerable parameters.
+
+The vulnerable parameter appears to be the "error" parameter within the JSON data being saved.
+
+The vulnerable parameter is "████████".
+
+The vulnerable parameter is `theme_handle`.
+
+The vulnerable parameter in the above cross site scripting report is "next_url".
+
+The vulnerable parameter in the above cross site scripting report is **window.location.href**.
+
+The vulnerable parameter from the above cross site scripting report is `ss_country_filter`.
+
+The vulnerable parameter in the report is "Content-Length".
+
+The vulnerable parameter in the above cross site scripting report is the Path.
+
+The vulnerable parameter in the above cross-site scripting report is X-Forwarded-Host.
+
+The vulnerable parameter is: from
+
+The vulnerable parameter is 'author'.
+
+The vulnerable parameter in the cross site scripting report is "q".
+
+The vulnerable parameter in the above cross site scripting report is the logo image upload function.
+
+The vulnerable parameter in the XSS report is "city".
+
+The vulnerable parameter is `██████████`.
+
+The vulnerable parameters are 'photoUrl', 'timestamp', and 'HumanTime'.
+
+The vulnerable parameter in the above cross site scripting report is "SAMLResponse".
+
+The vulnerable parameter in this report is `pathname`.
+
+The vulnerable parameter in the above cross site scripting report is not explicitly mentioned. However, from the URL provided in the proof of concept, it can be inferred that the parameter could be part of the URL path (`/nav/7_1_2_3_2_1<svg/onload=alert(document.domain)>`). Nevertheless, the report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in this case appears to be "term".
+
+body_html
+
+The vulnerable parameter in the above cross site scripting report is `plot`.
+
+The vulnerable parameter in the above cross site scripting report is `X-Forwarded-Host`.
+
+None
+
+The vulnerable parameter in the above cross site scripting report is "trazilica".
+
+The vulnerable parameters are `Title` and `Labels`.
+
+None
+
+The vulnerable parameter in the above cross site scripting report is the "Campaign Name."
+
+The vulnerable parameter is "iceID".
+
+The vulnerable parameter is: params[:back]
+
+playerready
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in this case is the Method.
+
+The vulnerable parameter is the file name.
+
+The report does not provide specific names for the vulnerable parameters.
+
+The vulnerable parameter in this cross site scripting report is 'src' in the image tag.
+
+The vulnerable parameter is "internalPath".
+
+The vulnerable parameter in the above cross site scripting report is "Message to Display When No Pages Listed".
+
+The vulnerable parameter in the above cross site scripting report is "name".
+
+The vulnerable parameters are:
+
+1. `REPORT_URL` 
+2. `EMOTICON_URL`
+3. `WIDTH` 
+4. `HEIGHT`
+
+The vulnerable parameters in the above cross site scripting report are `Body` and `author`.
+
+The vulnerable parameters are 'url', 'filename', 'content', 'Content-Disposition', and 'data-original'.
+
+The vulnerable parameters mentioned in the report are: Display text, URL links.
+
+The vulnerable parameter in the above cross site scripting report is the URL loaded in the WebView of the com.basecamp.bc3 application. In this case, the URL parameter is not being properly sanitized, leading to potential arbitrary JavaScript code injection.
+
+The vulnerable parameter in the above cross site scripting report is `custom_field_7[]`.
+
+The vulnerable parameter is "jaw".
+
+The vulnerable parameter in the above cross site scripting report is the "Referer".
+
+The vulnerability report does not specify any parameter names.
+
+The vulnerable parameters in this cross site scripting report are: "CFID".
+
+The vulnerable parameter is `tax`.
+
+The vulnerable parameters are "First name" and "Last name" in the contact creation step.
+
+The vulnerable parameter in the given cross site scripting report is "r".
+
+Title of the topic List
+
+The vulnerable parameter in the given cross-site scripting report appears to be 'pathname'.
+
+The vulnerable parameter is "redirect".
+
+The report does not mention any specific vulnerable parameters.
+
+The vulnerable parameter(s) is "Lang".
+
+The vulnerable parameter in the above cross site scripting report is "what".
+
+The vulnerable parameter in the above cross site scripting report is "siteBaseUrl".
+
+The report does not mention any specific vulnerable parameters.
+
+The report does not explicitly name the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is `n.getMainTweet().source`.
+
+The vulnerable parameter in the report is not specifically named, but it can be inferred that the parameter being exploited is located in the website's URL query.
+
+The vulnerable parameter in the above cross site scripting report is "refresh".
+
+The vulnerable parameters are:
+
+1. `serendipity[filter][author]`
+2. `serendipity[COOKIE]['entrylist_filter_' . $f_import]`
+3. `serendipity[GET]['filter'][$f_import]`
+4. `serendipity[COOKIE]['entrylist_sort_' . $s_import]`
+5. `serendipity[GET]['sort'][$s_import]`
+
+The vulnerable parameter in the above cross site scripting report is the "HTML with currency" setting under Store currency.
+
+The vulnerable parameter in the report is the file name.
+
+The vulnerable parameter in the above cross site scripting report is "cfg".
+
+The vulnerable parameter in the above cross site scripting report is the URL.
+
+The vulnerable parameter in the cross-site scripting report is the "name" field.
+
+None
+
+The vulnerable parameter in the above cross site scripting report is the "Supplier Name".
+
+The vulnerable parameter is "Attributes to index".
+
+The vulnerable parameters in the cross site scripting report are `style` and `onclick`. These parameters are allowing the attacker to insert style to make the tag into a block element and execute scripts using `onmouseover` or `onclick` event handler.
+
+The vulnerable parameter in the cross-site scripting report is "zzz".
+
+None
+
+The vulnerable parameter is the "ReturnUrl".
+
+The vulnerable parameter in the above cross site scripting report is **`with_tags_data`**.
+
+The vulnerable parameter in the cross site scripting report is the hidden input tags in the 404 pages. This parameter is vulnerable because double quotes lack sanitization, leading to JavaScript execution.
+
+The vulnerable parameters are: 
+
+1) Who do you wish to meet?
+2) Additional Information
+
+The vulnerable parameters are `URL`, `info.thumbnail`, `info.original_url` and `urlStr`.
+
+The vulnerable parameter is "events_per_page".
+
+The vulnerable parameter is: <script>alert(2)</script>
+
+The vulnerable parameter in the given cross site scripting report is the path parameter in the URL, specifically the job search term within "/Job/[INPUT]pratt-whitney-jobs-SRCH_KE0,13.htm?".
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is `creator_redirect`.
+
+The vulnerable parameter is 'permalink'.
+
+The vulnerable parameter in the above cross site scripting report is __redirect_uri__.
+
+The vulnerable parameter from the above cross site scripting report is: utm_source.
+
+The vulnerable parameter is: "properties[Artwork file]"
+
+The vulnerable parameter in the above cross site scripting report is `name`.
+
+The vulnerable parameters in the above cross site scripting report are "discount%5Bapplies_to_resource%5D" and "discount%5Bapplies_to_id%5D".
+
+The vulnerable parameter in the above cross site scripting report is the `Description` property.
+
+The vulnerable parameter in this cross site scripting report is the "email address" field.
+
+The vulnerable parameter in the above cross site scripting report is the address field.
+
+The vulnerable parameter in the report is "og:title".
+
+None
+
+The vulnerable parameters in the given cross site scripting report are:
+
+1. Subject
+2. Total Bitcoin
+3. Order
+4. Description
+5. Customer ID
+6. From field on the transaction page.
+
+The report does not explicitly name the vulnerable parameter(s) in this cross site scripting issue.
+
+The vulnerable parameter is: filter.jobTitleFTS
+
+The vulnerable parameter in the above cross site scripting report is "PRODUCT TYPE".
+
+The report does not explicitly mention the names of the vulnerable parameters involved in the Cross-Site Scripting (XSS) attack.
+
+The report does not explicitly list the names of the vulnerable parameter(s) involved in the cross site scripting report.
+
+The report does not specify the name of the vulnerable parameter(s).
+
+citySource
+
+The vulnerable parameter in the above cross site scripting report is the "Host" header.
+
+The vulnerable parameters are ctx[vars][html], ctx[vars][zoom], ctx[vars][Lat], and ctx[vars][Lng].
+
+The vulnerable parameter in the above cross site scripting report is "Section Name".
+
+The name of the vulnerable parameter is not clearly mentioned as it is redacted.
+
+The report does not provide specific names of the vulnerable parameters. It would typically be included in the URL given, but here no specific parameters are highlighted or mentioned.
+
+The vulnerable parameter in the above cross-site scripting report is "display name".
+
+The vulnerable parameter in the cross site scripting report is `wish_list`.
+
+The vulnerable parameter is the "name" field in the account information.
+
+The vulnerable parameter in the above cross site scripting report is the file name.
+
+The report doesn't explicitly mention the name of the vulnerable parameter. However, looking at the payload, it seems to be taking advantage of a parameter that isn't properly sanitizing input and is allowing for HTML and JavaScript injection.
+
+The vulnerable parameter in the cross site scripting report is the search box.
+
+The vulnerable parameter in the above cross site scripting report is the `Comment` parameter.
+
+The report does not explicitly mention any vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is the 'new competitor's domain' field.
+
+The vulnerable parameter is "id".
+
+The report doesn't provide specific information on the vulnerable parameters involved in the cross site scripting issue.
+
+The vulnerable parameter in the above cross site scripting report is `sort_col`.
+
+The vulnerable parameter is the search box / query ("q").
+
+The vulnerable parameter in the above cross site scripting report is the `README.rdoc` file.
+
+The vulnerable parameter in the above cross site scripting report is the "folder or file name".
+
+The vulnerable parameter is "redirect".
+
+The vulnerable parameters from the cross-site scripting report are: "doAuthenticate", "request", and "registrations".
+
+The vulnerable parameter is `s`.
+
+The vulnerable parameters in the cross site scripting report are "select" and "style".
+
+Post title
+
+The vulnerable parameter is the "username" field.
+
+Testimonial Position
+
+The vulnerable parameter appears to be the URI.
+
+The vulnerable parameter in the above cross-site scripting report is "signup".
+
+The vulnerable parameter in the given cross-site scripting report is "cdn_url".
+
+The vulnerable parameters in the above cross site scripting report are "style" and "button-bg-color".
+
+The vulnerable parameters in the above cross site scripting report are: 
+
+- attribute
+- value
+
+The vulnerable parameters identified from the above cross site scripting report are "wallet name", "from account" name, "to account" name, and "description".
+
+The vulnerable parameter in this cross site scripting report is `_landing_page` cookie value.
+
+The vulnerable parameter in the above cross site scripting report is URL.
+
+The vulnerable parameter in the above Cross Site Scripting report is the "Promo Code" field.
+
+The vulnerable parameter in the above cross site scripting report is "url".
+
+The report does not provide specific names of vulnerable parameters.
+
+The vulnerable parameter is the account name.
+
+The vulnerable parameter in the cross site scripting report is the "Placemark title field".
+
+The name of the vulnerable parameter is `██████████`.
+
+The vulnerable parameter is `return_to`.
+
+The vulnerable parameter in the above cross site scripting report is "url".
+
+The vulnerable parameter is the "Title" field.
+
+The vulnerable parameter in the above cross site scripting report is "Search".
+
+The vulnerable parameters in the above cross site scripting report are **Icebreaker** and **companyName**.
+
+title of date navigation
+
+None
+
+The vulnerable parameter in the above cross site scripting report is `Search`.
+
+The vulnerable parameter in the above cross site scripting report is "id".
+
+The vulnerable parameter is "██████████".
+
+The vulnerable parameter in the above cross site scripting report is "bgColor".
+
+The vulnerable parameters appear to be "mail" and "name".
+
+The vulnerable parameter is the file name.
+
+The vulnerable parameter in this cross site scripting report is `%(branch)s`.
+
+The vulnerable parameter in the above cross-site scripting report is the "id" parameter.
+
+The vulnerability report does not explicitly mention any parameter names.
+
+The vulnerable parameter in the above cross site scripting report is "search_query".
+
+The vulnerable parameter is "q".
+
+The vulnerable parameter in the above cross site scripting report seems to be in the `Accounts_Admin_Email_Approval_Needed_With_Reason_Default` action. After further analysis of the DOM, the exact parameter where the XSS payload is injected appears to be within the Reason field. The attack vector seems to originate from an image element (`<img>`) with an invalid source (`src="x"`), upon failure (`onerror`), it runs an encoded Javascript (`eval(atob(this.id))`). An ID (`id="dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vMjk3Mzk1NjMzOC54c3MuaHQiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7"`) carries the actual payload, which appears to be Base64 encoded.
+
+The vulnerable parameter in the provided cross site scripting report is "font".
+
+html
+
+Statement
+
+The vulnerable parameter in the above cross site scripting report is "return_url".
+
+The vulnerable parameter in the above cross site scripting report is "src".
+
+The vulnerable parameter in the above cross site scripting report is "Document Title".
+
+The vulnerable parameters are "Name" and "Description".
+
+None
+
+The vulnerable parameter in the above cross site scripting report is the user's input in comments.
+
+The vulnerable parameter in the above cross site scripting report is "return_url".
+
+The vulnerable parameter in the URL appears to be "77d50".
+
+The path name in the url
+
+The vulnerable parameters in the above cross-site scripting report are:
+
+- "Save Torrent File"
+- `http://www.google.com`
+- `file:///etc/passwd`
+- `ssh://`
+- `javascript:`
+
+The vulnerable parameter in the above cross site scripting report is 'code'.
+
+Logo & Log in image
+
+The vulnerable parameter in this case is the 'message' textarea.
+
+The vulnerable parameter identified in the above cross site scripting report is "callback".
+
+The vulnerable parameters are:
+
+1. `__proto__.innerHTML`
+2. `__proto__.__global__`
+3. `__proto__.t306dw04gl`
+4. `__proto__.__wistia-t306dw04gl-1_dom_options__`
+5. `__proto__.wistia-t306dw04gl-1`
+
+The vulnerable parameter in the report is the theme code that is being manipulated to execute a XSS attack.
+
+The vulnerable parameter is "Who-Platform".
+
+The report does not provide specific parameter names that are vulnerable to the cross-site scripting (XSS) issue.
+
+The vulnerable parameter in the above cross site scripting report is the "Company" field.
+
+Meteor.loginToken
+
+The vulnerable parameter in the above cross site scripting report is "content".
+
+The vulnerable parameter in this report appears to be "████".
+
+The vulnerable parameters are "url" and "data-remote", "data-method", "data-type", "href", "class".
+
+The vulnerable parameter in the above cross site scripting report is "blkCatIds".
+
+The report does not specify the vulnerable parameter(s).
+
+The vulnerable parameter appears to be "q".
+
+Country name
+
+The vulnerable parameter in the above cross site scripting report is "Referer" in the HTTP header.
+
+The vulnerable parameter is not explicitly named in the report. It is only mentioned as a user-controlled input from a drop-down list on the page at https://██████/usnotice.php.
+
+The vulnerable parameter from the cross site scripting report is `fld_displaytype`.
+
+The vulnerable parameters in the above cross site scripting report are the Request-URI and the Location header.
+
+The vulnerable parameters in the reported cross site scripting are `kp` and `kae`.
+
+Shop name
+
+The report does not specify any vulnerable parameter names.
+
+The vulnerable parameter is "q".
+
+The vulnerable parameters in the above cross site scripting report are "%#target%g" and "uid%g".
+
+The vulnerable parameters are "url" and "password".
+
+The vulnerable parameter in the above cross site scripting report is the comment field in the Active Conversation Editor when set to "Rich Text".
+
+The vulnerable parameter in this cross site scripting report is "type".
+
+The vulnerable parameters in the cross-site scripting report are "url" and "mode".
+
+The vulnerable parameter is the "Set password".
+
+The vulnerable parameter in the above cross site scripting report is the file name.
+
+The vulnerable parameter in the XSS vulnerability report is the page URL.
+
+The vulnerable parameters are: successUrl, failUrl.
+
+The vulnerable parameters are `alias` and `tooltip`.
+
+The report does not provide specific names for the vulnerable parameters.
+
+The vulnerable parameters are `Custom Domain` and `Demo domain`.
+
+The vulnerable parameter in the above cross site scripting report is the "full name" field.
+
+The vulnerable parameter in the given cross-site scripting report seems to be the image source (src) parameter within the HTML image tag.
+
+Custom Title Text
+
+None
+
+The vulnerable parameter in the above cross site scripting report is "media_url".
+
+Biography
+
+None
+
+The report does not provide specific details about any vulnerable parameters.
+
+The report does not provide clear parameters that could be vulnerable to a cross site scripting attack. Therefore, based on the information given, it's not possible to determine the vulnerable parameters.
+
+The vulnerable parameter in the above cross site scripting report is: redirect=
+
+The vulnerable parameter is "metro".
+
+highlight words
+
+The vulnerable parameter in the above cross site scripting report is the "Style Name".
+
+The vulnerable parameter in the above cross site scripting report is 'sysparm_channelID'.
+
+The vulnerable parameter is not explicitly mentioned in the report.
+
+The potentially vulnerable parameter from the cross site scripting report seems to be 'q'.
+
+Profile Name
+
+The vulnerable parameter in the above cross site scripting report is the `Name` of the detail broken themes.
+
+The vulnerable parameter in the above cross site scripting report is the comment section of a product in the transfers tab.
+
+The vulnerable parameter is "indicatorsFile".
+
+The vulnerable parameter in this report is not explicitly named. However, based on the context, we can infer that the vulnerability may exist in the "review" field or feature.
+
+The vulnerable parameter in this case appears to be the URL path folder 2.
+
+The vulnerable parameter in the above cross site scripting report is `keywords`.
+
+The vulnerable parameter is "s".
+
+The vulnerable parameter in the above cross site scripting report is `i=`.
+
+The vulnerable parameter in the above cross site scripting report is "post_title".
+
+First Name
+
+The vulnerable parameter is the Comments Box.
+
+The vulnerable parameter in the above cross site scripting report is "██████████".
+
+The vulnerable parameter in the above cross site scripting report is "path".
+
+The vulnerable parameter in the given Cross-Site Scripting (XSS) report is 'r'.
+
+The vulnerable parameter from the above cross site scripting report is `project`.
+
+The vulnerable parameter is "subcat".
+
+The vulnerable parameter in the above cross site scripting report is "serial".
+
+The vulnerable parameter in the above cross site scripting report is the filename.
+
+The vulnerable parameter is "scribe_context".
+
+The vulnerable parameters from the above cross site scripting report are:
+
+1. first&#95;name
+2. mail&#95;to&#95;first&#95;name
+
+Title of Page List in edit page list
+
+The vulnerable parameter in this case appears to be the "file name".
+
+The vulnerable parameter in the above cross site scripting report is the "content" parameter of a post in Hexo-admin's Post Editor functionality.
+
+The vulnerable parameter in the above cross site scripting report is `window.location.hash`.
+
+The vulnerable parameter in the cross site scripting report is `Format`.
+
+The vulnerable parameter here appears to be "next".
+
+The vulnerable parameter from the above cross site scripting report is "q_13779".
+
+The vulnerable parameters in the above cross site scripting report are "email" and "remember_me" in the URL "https://hackerone.com/users/saml/sign_in?email=███&remember_me=true".
+
+The vulnerable parameter appears to be "term".
+
+The vulnerable parameter in the above cross site scripting report is the "X-Forwarded-Host" header.
+
+The vulnerable parameter in the above cross site scripting report is the filter search bar.
+
+The vulnerable parameters are the private location "label" and "description".
+
+The vulnerable parameter in the above cross site scripting report is the "runbook URL".
+
+The vulnerable parameter in the given cross site scripting report is "&so=&o=".
+
+The vulnerable parameter appears to be "f=2&t=16462<script>alert(100)</script>&debug=1" in the query string of the URL. The "alert(100)" script embedded in the parameter indicates a Reflected XSS (Cross-Site Scripting) Vulnerability.
+
+The vulnerable parameter in the above cross site scripting report is `subject`.
+
+The vulnerable parameters in the above cross site scripting report are 'target%g' and 'uid%g'.
+
+The vulnerable parameter in the above cross site scripting report is "q".
+
+The name of the vulnerable parameter is not directly mentioned in the report. However, the vulnerability seems to come from the "name" field in the google contact creation.
+
+The vulnerable parameter in this cross site scripting report is "tags".
+
+The report does not specify the name of the vulnerable parameters involved in the cross-site scripting attack.
+
+The vulnerable parameter here appears to be "Cookie".
+
+The vulnerable parameter in the above cross site scripting report is "new-d1".
+
+Street Address
+
+The vulnerable parameter name from the above Cross-Site Scripting (XSS) report is "user".
+
+The vulnerable parameter in the above cross site scripting report is "__zopim_widget_proxy".
+
+None
+
+The vulnerable parameter here appears to be the "post title".
+
+The report does not provide specific names of the vulnerable parameters involved in the XSS (Cross Site Scripting) issue.
+
+The vulnerable parameters are "triager" and "hacker".
+
+The vulnerable parameter in the above cross site scripting report is **City**.
+
+The vulnerable parameter in this cross site scripting report is the role name.
+
+The vulnerable parameter in the above cross site scripting report is "tags".
+
+The vulnerable parameter in this cross site scripting report is the Payload in user input while Signing Up.
+
+The vulnerable parameter in the above cross site scripting report is `c-detail__user`.
+
+The vulnerable parameter is the name of the file, which in this case is `"><svg onload=alert(3333333);`.
+
+The vulnerable parameter in this cross site scripting report is "referer".
+
+The vulnerable parameter in the cross site scripting report is "google_apps_uri".
+
+The text doesn't specify a parameter that is vulnerable. It mentions a process and uses 'payload', but doesn't name a specific parameter.
+
+The vulnerable parameter in the above cross site scripting report is not explicitly named.
+
+The vulnerable parameters are the `reference` field on a report triage action and the `data` field of a trigger criterion.
+
+The vulnerable parameter in this report is the "Nickname" field in the forum.
+
+The vulnerable parameter in the above cross site scripting report is `serendipity%5bmultiCat%5d%5b%5d`.
+
+The report does not provide specific names of the vulnerable parameters.
+
+The vulnerable parameter in the given cross site scripting report is "access_token".
+
+The vulnerable parameters appear to be:
+
+- `callback`
+- `data`
+- `url`
+- `file`
+- `sequel`
+- `Data`
+- `more`
+- `sequel` in the `xhr.send(ajx2q({Data: dataUrl, more: more, sequel: sequel || 0}));` line of code
+- GET-parameters in general.
+- The parameters passed to the undefined `ajx2q` function. 
+- The parameters passed to the `sendData` function.
+
+The report does not provide specific names of the vulnerable parameters.
+
+Ticket Title
+
+The vulnerable parameter is the user name.
+
+The vulnerable parameter in the above cross site scripting report is `note_item[data_url]`.
+
+The vulnerable parameter in the above cross site scripting report is "r".
+
+The vulnerable parameter in the above cross site scripting report is `q`.
+
+The report does not explicitly mention the names of the vulnerable parameters involved in the cross site scripting vulnerability.
+
+The vulnerable parameter from the above cross site scripting report is `name`.
+
+The vulnerable parameter in the above cross site scripting report is the name of the app.
+
+The vulnerable parameter is "extcss".
+
+The report does not specify the exact names of the vulnerable parameters.
+
+The vulnerable parameter is "add-title".
+
+The vulnerable parameter in the above cross site scripting report is "config".
+
+The vulnerable parameter is the "All Location" field on the search results page.
+
+The vulnerable parameter appears to be `a`.
+
+The vulnerable parameter in the report is the User-Agent.
+
+The vulnerable parameter in the above cross site scripting report is "full name".
+
+The vulnerable parameter is data[person].
+
+The vulnerable parameters are the dish or restaurant name.
+
+The vulnerable parameter in the above cross site scripting report is "color".
+
+The vulnerable parameter is "Calendar Name".
+
+The vulnerable parameters are "Nimesi" and "Kaverisi nimi".
+
+The vulnerable parameter in the above cross site scripting report is **Apartment, suite, etc. (optional)**.
+
+The vulnerable parameter in this case is "user".
+
+The report does not provide specific vulnerable parameters.
+
+The report does not provide specific vulnerable parameters.
+
+The vulnerable parameter is the "name" of the shop.
+
+The report does not provide specific vulnerable parameters.
+
+The vulnerable parameter is "url".
+
+The vulnerable parameter is "iface".
+
+The report does not provide specific vulnerable parameters.
+
+The vulnerable parameter is "applicationName".
+
+The vulnerable parameter is the user's "description".
+
+The vulnerable parameter is "back_to".
+
+The vulnerable parameter is the "Product option".
+
+The vulnerable parameters are "name" and "description" of a channel.
+
+The report does not provide specific vulnerable parameters.
+
+The vulnerable parameter is "txt".
+
+The report does not provide specific vulnerable parameters.
+
+The vulnerable parameter is the "filename".
+
+The vulnerable parameter is "Customer Message".
+
+The vulnerable parameters are "agreeTerms" and "acceptTermsErrorMessage".
+
+The report does not provide specific vulnerable parameters.
+
+The vulnerable parameter is the "contact name".
+
+The report does not provide specific vulnerable parameters.
+
+The vulnerable parameter is the path string following "/kinetic/".
+
+The vulnerable parameter in the above cross site scripting report is "href".
+
+The vulnerable parameter in the above cross site scripting report is the URL used for redirection - specifically the "/analytics/" section of the URL.
+
+The vulnerable parameter in the above cross site scripting report is "type".
+
+The vulnerable parameter in the above cross site scripting report is the text editor area in the registration form, specifically the "reason" field.
+
+The vulnerable parameter in the above cross site scripting report is "cpID".
+
+The vulnerable parameter in the above cross site scripting report is "url" in the `.gitmodules` file.
+
+The vulnerable parameter in the above cross site scripting report is the URL used in the "Steps To Reproduce" section.
+
+The vulnerable parameter in the above cross site scripting report is "target".
+
+The vulnerable parameter in the above cross site scripting report is the "phone number".
+
+The vulnerable parameters in the above cross site scripting report are "utm_source", "utm_medium", and "utm_campaign".
+
+The vulnerable parameter in the above cross site scripting report is the part of the URL that corresponds to the user's profile name ("/profile/LOL").
+
+The report does not explicitly mention vulnerable parameters involved in the described XSS issue. The issue seems to be connected to the handling of dragged data within the loaded JavaScript file (tinymce 2.4.0) rather than a specific parameter being susceptible to malicious input.
+
+The vulnerable parameter in the above cross site scripting report is "Title" under the "Deploy keys" section.
+
+The vulnerable parameter in the above cross site scripting report is "t" in the URL.
+
+The vulnerable parameter in the above cross site scripting report is "window.location.pathname" in the JavaScript code.
+
+The vulnerable parameters in the above cross site scripting report are all the form fields for "Billing Address" and "Shipping Address".
+
+No specific vulnerable parameters are mentioned in the above cross site scripting report. The issue pertains more to the handling of uploaded files and certain header settings in Internet Explorer.
+
+The vulnerable parameter in this cross site scripting report is `value`.
+
+The vulnerable parameters in this cross site scripting report are `__e2e_action_id` and `window_id`.
+
+The vulnerable parameter in this cross site scripting report is `redirect_to`.
+
+The report does not provide specific names of the vulnerable parameters involved in the cross site scripting issue.
+
+The vulnerable parameter is `company_name`.
+
+The report does not provide specific names of the vulnerable parameters involved in the cross site scripting issue.
+
+The vulnerable parameter is the file upload with the payload file name, specifically files named as: `"><img src=x onerror=alert(document.cookie);.jpg`
+
+The vulnerable parameter is the path input in the URL: `http://█████████/<svg onload=alert("chron0x")>`.
+
+The vulnerable parameter is `ctx` and within this parameter, the value inside the tag `<filtered>` is particularly vulnerable.
+
+The vulnerable parameter is `email`.
+
+The vulnerable parameter is `trn`.
+
+The report doesn't provide specific names of the vulnerable parameter(s) involved in the cross-site scripting issue. However, the vulnerability is present in the markdown parser when handling an image URL.
+
+The report does not provide specific names of the vulnerable parameters involved in the cross site scripting issue.
+
+The report does not provide specific names of the vulnerable parameters involved in the cross site scripting issue.
+
+The report does not provide specific names of the vulnerable parameters involved in the cross site scripting issue. However, the vulnerability is associated with the file upload functionality and the handling of Unicode characters in file names.
+
+The report does not provide specific names of the vulnerable parameters involved in the issue. However, the vulnerability is related to the DNS entry `a2.bime.io` pointing to an uncontrolled S3 bucket.
+
+The report does not provide specific names of the vulnerable parameters involved in the cross site scripting issue.
+
+The vulnerable parameter is `version`.
+
+The vulnerable parameter is `action[][]`.
+
+The vulnerable parameter is the module name.
+
+The vulnerable parameters are Blurb, Location and Name.
+
+None. The report speaks about a vulnerability involving 0x0d character injection in the URL, rather than a specific parameter.
+
+The vulnerable parameter is "Editor Link".
+
+The vulnerable parameter is the part of the URL represented here as "6177527534dc114eb07fa829e4ce4d28".
+
+The vulnerable parameter is "problems_text".
+
+None. The vulnerability described in the report is about how the site behaves when accessed via specific old versions of the IE browser, not a specific parameter.
+
+The vulnerable parameter is "originalUrl".
+
+The vulnerable parameter is "email".
+
+The vulnerable parameter is "miniUrl".
+
+The vulnerable parameter is "page_search_query".
+
+None. The report demonstrates an attack scenario via a malicious file upload rather than involving a specific vulnerable parameter.
+
+None. The report shows a general vulnerability involving the profile URL structure, not a specific parameter.
+
+None. The report shows an attack scenario via the NrQL query input in the chart builder, not a specific vulnerable parameter.
+
+The vulnerable parameter is "x:authorization-to-first-name".
+
+The vulnerable parameters are "utm_campaign", "utm_content", "utm_medium", and "utm_source".
+
+The vulnerable parameter is "extra['account']".
+
+The vulnerable parameters in the report are "title" and "authorName".
+
+The vulnerable parameter is "image_src".
+
+The vulnerable parameter is "language".
+
+The vulnerable parameter is "text".
+
+The vulnerable parameter is "p".
+
+None. The report describes a vulnerability involving the whitelisted_generic onebox engine and how it decodes variable values, rather than a specific parameter.
+
+The vulnerable parameter is "callback".
+
+None. The report doesn't specify a vulnerable parameter. It mentions an issue with the "Compose Tweet" option, which seems more related to the feature's handling of user input as a whole rather than a specific parameter.
+

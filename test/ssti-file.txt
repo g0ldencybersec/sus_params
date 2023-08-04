@@ -1,0 +1,4 @@
+The report does not provide specific details about the vulnerable parameter(s).
+
+The report does not provide specific information about any vulnerable parameters.
+
