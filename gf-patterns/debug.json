@@ -1,0 +1,31 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "test",
+        "reset",
+        "config",
+        "shell",
+        "admin",
+        "exec",
+        "load",
+        "cfg",
+        "dbg",
+        "edit",
+        "root",
+        "create",
+        "access",
+        "disable",
+        "alter",
+        "make",
+        "grant",
+        "adm",
+        "toggle",
+        "execute",
+        "clone",
+        "delete",
+        "enable",
+        "rename",
+        "debug",
+        "modify"
+]
+}
