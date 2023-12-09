@@ -1,4 +1,11 @@
 
+<h1 align="center">
+  <br>
+  <img src="https://github.com/jhaddix/sus_params/blob/main/sus_banner.png" alt="Sus params" width="200"></a>
+  <br>
+  Sus Params
+  <br>
+</h1>
 
 <h4 align="center">A statisitical analysis of paramters and keywords related to web application vulnerability classes. The `sus_params` project is led by Gunnar Andrews and Jason Haddix.</h4>
 
