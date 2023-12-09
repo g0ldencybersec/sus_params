@@ -1,4 +1,7 @@
-The `sus_params` project is led by Gunnar Andrews and Jason Haddix.
+
+
+<h4 align="center">A statisitical analysis of paramters and keywords related to web application vulnerability classes. The `sus_params` project is led by Gunnar Andrews and Jason Haddix.</h4>
+
 
 # What is the sus_params Project?
 
