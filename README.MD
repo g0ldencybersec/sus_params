@@ -18,12 +18,13 @@ When you see them, they are "sus", and you should do manual testing on them for 
 
 ## The Vulnerable Paramter Lists
 
-- [Cross-Site Scripting](#top-25-cross-site-scripting-xss-parameters)
-- [Server-Side Request Forgery](#top-25-server-side-request-forgery-ssrf-parameters)
-- [Local File Inclusion](#top-25-local-file-inclusion-lfi-parameters)
-- [SQL Injection](#top-25-sql-injection-parameters-for-trbughunters)
+- [Cross-Site Scripting]()
+- [Debug and Parameter Tampering](#Sus_params-Debug-and-Parameter-Tampering-Parameters)
+- [Server-Side Request Forgery]()
+- [Local File Inclusion]()
+- [SQL Injection]()
 - [Command Injection](#Sus_params-Command-Injection-Parameters)
-- [Open Redirect](#top-25-open-redirect-parameters-get-based)
+- [Open Redirect]()
 
 <br>
 
@@ -69,6 +70,10 @@ We also have the associated code we used parse the data from [Hacktivity](https:
 ### Sus_params **Cross-Site Scripting (XSS)** Parameters
 
 <img src="">
+
+### Sus_params ***Debug and Parameter Tampering*** Parameters
+
+<img src="https://github.com/jhaddix/sus_params/blob/main/debug.png">
 
 ### Sus_params **Server-Side Request Forgery (SSRF)** Parameters
 
