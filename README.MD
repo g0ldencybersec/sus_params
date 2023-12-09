@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/jhaddix/sus_params/blob/main/sus_banner.png" alt="Sus params" width="200"></a>
+  <img src="https://github.com/jhaddix/sus_params/blob/main/sus_banner.png" alt="Sus params" width="600"></a>
   <br>
   Sus Params
   <br>
