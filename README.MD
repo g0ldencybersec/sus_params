@@ -21,7 +21,7 @@ When you see them, they are "sus", and you should do manual testing on them for 
 - [Cross-Site Scripting]()
 - [Debug and Parameter Tampering](#Sus_params-Debug-and-Parameter-Tampering-Parameters)
 - [Server-Side Request Forgery]()
-- [Local File Inclusion]()
+- [File Inclusion - LFI ](#Sus_params-File-Inclusion-(LFI)-Parameters)
 - [SQL Injection]()
 - [Command Injection](#Sus_params-Command-Injection-Parameters)
 - [Open Redirect]()
@@ -79,9 +79,9 @@ We also have the associated code we used parse the data from [Hacktivity](https:
 
 <img src="">
 
-### Sus_params **Local File Inclusion (LFI)** Parameters
+### Sus_params **File Inclusion (LFI)** Parameters
 
-<img src="">
+<img src="https://github.com/jhaddix/sus_params/blob/main/fi.png">
 
 ### Sus_params **SQL Injection** Parameters
 
