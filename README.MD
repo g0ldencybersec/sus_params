@@ -1,7 +1,27 @@
-# sus_params Project
+The `sus_params` project is led by Gunnar Andrews and Jason Haddix.
 
-## Overview
-The `sus_params` project, led by Gunnar Andrews and Jason Haddix, extends the HUNT dataset to include Hacktivity Disclosures up to 2023. The project's goal is to identify statistical correlations between certain vulnerabilities and specific route or parameter names, aiding application security testers in focusing their efforts effectively.
+# What is the sus_params Project?
+
+This project is aimed to help new (and seasoned) application security testers when testing enterpise web applications. Often you can land on a large web applications and feel lost as to what to test. The sus_paramaters project is project aimed a giving you insight into parameters or routes that are commonly vulnerable to certain vulnerabilitites. 
+
+When you see them, they are "sus", and you should do manual testing on them for the vulnerability class referenced. 
+
+# Using Sus_params with GAP
+
+Sus_params data and alerting is now availble via Burp Extention in the AWESOME [GAP](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) Burp extention by [xnl-h4ck3r](https://twitter.com/xnl_h4ck3r)!
+
+# Using GF Pattern Files
+
+The project includes GF pattern files in JSON format to help identify vulnerabilities. Here's how to use them:
+
+1. Gather a list of URLs to inspect. This can be gathered from tools like Burp Suite or [WayMore](https://github.com/xnl-h4ck3r/waymore)
+2. Ensure you have `gf` (Grep-Friendly) installed. If not, install it from [here](https://github.com/tomnomnom/gf).
+3. Copy the JSON [pattern files](https://github.com/g0ldencybersec/sus_params/tree/main/gf-patterns) to your `gf` patterns directory. Typically, this would be `~/.gf`
+4. `gf pattern-name FileOfUrls` (Replace `pattern-name` with the name of the pattern you want to use like `sqli.json`)
+
+## Whats Next?
+
+Coming soon we will integrate the OWASP Top 25 Parameter data. HUNT's original data, plus the new sus_param data, and the Top 25 should be the ultimate parameter lists!
 
 ## Features
 
@@ -10,14 +30,10 @@ The `sus_params` project, led by Gunnar Andrews and Jason Haddix, extends the HU
 - Data from all Bugcrowd submissions up until 2016
 - Identification of high-risk routes and parameters based on historical data
 
-## Getting Started
+## What Else? 
 
-#Using GF Pattern Files
+Well this repo is much more than just the data and parameters. Aspiring hackers will notice the full Hacktiviy data dump is hosted [here](https://github.com/g0ldencybersec/sus_params/tree/main/json_files) feel free to use it in your security research! 
 
-The project includes GF pattern files in JSON format to help identify vulnerabilities. Here's how to use them:
-
-1. Ensure you have `gf` (Grep-Friendly) installed. If not, install it from [here](https://github.com/tomnomnom/gf).
-2. Copy the JSON pattern files to your `gf` patterns directory. Typically, this would be `~/.gf`
-3. `gf pattern-name` Replace `pattern-name` with the name of the pattern you want to use like `sqli.json`
+We also have the associated code we used parse the data from [Hacktivity](https://github.com/g0ldencybersec/sus_params/blob/main/hackerone.py) and [Bugcrowd](https://github.com/g0ldencybersec/sus_params/blob/main/bugcrowd.py). After we downloaded this we needed to parse the VERY unstructured data to which we used AI for to great effect! (buy Gunnar a beer to maybe see that code). 
 
 
