@@ -11,17 +11,17 @@
 
  <br>
 
-# What is the sus_params Project?
+## What is the sus_params Project?
 
 This project is aimed to help new (and seasoned) application security testers when testing enterpise web applications. Often you can land on a large web applications and feel lost as to what to test. The sus_paramaters project is project aimed a giving you insight into parameters or routes that are commonly vulnerable to certain vulnerabilitites. 
 
 When you see them, they are "sus", and you should do manual testing on them for the vulnerability class referenced. 
 
-# Using Sus_params with GAP
+## Using Sus_params with GAP
 
 Sus_params data and alerting is now availble via Burp Extention in the AWESOME [GAP](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) Burp extention by [xnl-h4ck3r](https://twitter.com/xnl_h4ck3r)!
 
-# Using GF Pattern Files
+## Using GF Pattern Files
 
 The project includes GF pattern files in JSON format to help identify vulnerabilities. Here's how to use them:
 
