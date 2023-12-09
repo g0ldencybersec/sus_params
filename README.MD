@@ -16,6 +16,17 @@ When you see them, they are "sus", and you should do manual testing on them for 
 
 <br>
 
+## The Vulnerable Paramter Lists
+
+- [Cross-Site Scripting](#top-25-cross-site-scripting-xss-parameters)
+- [Server-Side Request Forgery](#top-25-server-side-request-forgery-ssrf-parameters)
+- [Local File Inclusion](#top-25-local-file-inclusion-lfi-parameters)
+- [SQL Injection](#top-25-sql-injection-parameters-for-trbughunters)
+- [Remote Code Execution](#top-25-remote-code-execution-rce-parameters-get-based)
+- [Open Redirect](#top-25-open-redirect-parameters-get-based)
+
+<br>
+
 ## Using Sus_params with GAP
 
 Sus_params data and alerting is now availble via Burp Extention in the AWESOME [GAP](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) Burp extention by [xnl-h4ck3r](https://twitter.com/xnl_h4ck3r)!
@@ -53,4 +64,26 @@ Well this repo is much more than just the data and parameters. Aspiring hackers 
 
 We also have the associated code we used parse the data from [Hacktivity](https://github.com/g0ldencybersec/sus_params/blob/main/hackerone.py) and [Bugcrowd](https://github.com/g0ldencybersec/sus_params/blob/main/bugcrowd.py). After we downloaded this we needed to parse the VERY unstructured data to which we used AI for to great effect! (buy Gunnar a beer to maybe see that code). 
 
+### Sus_params **Cross-Site Scripting (XSS)** Parameters
 
+<img src="">
+
+### Sus_params **Server-Side Request Forgery (SSRF)** Parameters
+
+<img src="">
+
+### Sus_params **Local File Inclusion (LFI)** Parameters
+
+<img src="">
+
+### Sus_params **SQL Injection** Parameters
+
+<img src="">
+
+### Sus_params **Command Injection** Parameters [GET based]
+
+<img src="https://github.com/jhaddix/sus_params/blob/main/CMDi.png">
+
+### Sus_params **Open Redirect** Parameters [GET based]
+
+<img src="">
