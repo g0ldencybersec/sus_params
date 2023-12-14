@@ -1,0 +1,190 @@
+HUNT Params Archvive (2016)
+
+Issues
+
+# Insecure Direct Object Reference
+Check Location
+Request: true
+Response: false
+Detail: Description of the issue
+
+Params:
+
+id
+user
+account
+number
+order
+no
+doc
+key
+email
+group
+profile
+edit
+report
+
+
+# OS Command Injection
+Check Location
+Request: true
+Response: false
+
+Params:
+
+daemon
+upload
+dir
+execute
+download
+log
+ip
+cli
+cmd
+
+
+# File Inclusion and Path Traversal
+Check Location
+Request: true
+Response: false
+
+Params:
+
+file
+document
+folder
+root
+path
+pg
+style
+pdf
+template
+php_path
+doc
+
+# SQL Injection
+Check Location
+Request: true
+Response: false
+
+Params:
+
+id
+select
+report
+role
+update
+query
+user
+name
+sort
+where
+search
+params
+process
+row
+view
+table
+from
+sel
+results
+sleep
+fetch
+order
+keyword
+column
+field
+delete
+string
+number
+filter
+
+# Server Side Request Forgery
+Check Location
+Request: true
+Response: false
+
+Params:
+
+dest
+redirect
+uri
+path
+continue
+url
+window
+next
+data
+reference
+site
+html
+val
+validate
+domain
+callback
+return
+page
+feed
+host
+port
+to
+out
+view
+dir
+show
+navigation
+open
+
+# Server Side Template Injection
+Check Location
+Request: true
+Response: false
+
+Params:
+
+template
+preview
+id
+view
+activity
+name
+content
+redirect
+
+# Debug and Logic Parameters
+Check Location
+Request: true
+Response: false
+
+Params:
+
+access
+admin
+dbg
+debug
+edit
+grant
+test
+alter
+clone
+create
+delete
+disable
+enable
+exec
+execute
+load
+make
+modify
+rename
+reset
+shell
+toggle
+adm
+root
+cfg
+config
+adm
+root
+cfg
+config
