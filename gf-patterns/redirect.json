@@ -1,21 +1,21 @@
 {
     "flags": "-iE",
     "patterns": [
-        "u",
-        "redirect_uri",
-        "failed",
-        "r",
-        "referer",
-        "return_url",
-        "redirect_url",
-        "prejoin_data",
-        "x-forwarded-host",
-        "continue",
-        "redir",
-        "return_to",
-        "origin",
-        "redirect_to",
-        "next",
-        "host"
-]
+        "(\\?|&)u=",
+        "(\\?|&)redirect_uri=",
+        "(\\?|&)failed=",
+        "(\\?|&)r=",
+        "(\\?|&)referer=",
+        "(\\?|&)return_url=",
+        "(\\?|&)redirect_url=",
+        "(\\?|&)prejoin_data=",
+        "(\\?|&)x-forwarded-host=",
+        "(\\?|&)continue=",
+        "(\\?|&)redir=",
+        "(\\?|&)return_to=",
+        "(\\?|&)origin=",
+        "(\\?|&)redirect_to=",
+        "(\\?|&)next=",
+        "(\\?|&)host="
+    ]
 }

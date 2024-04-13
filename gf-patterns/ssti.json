@@ -1,13 +1,13 @@
 {
     "flags": "-iE",
     "patterns": [
-        "preview",
-        "activity",
-        "id",
-        "name",
-        "content",
-        "view",
-        "template",
-        "redirect"
-]
+        "(\\?|&)preview=",
+        "(\\?|&)activity=",
+        "(\\?|&)id=",
+        "(\\?|&)name=",
+        "(\\?|&)content=",
+        "(\\?|&)view=",
+        "(\\?|&)template=",
+        "(\\?|&)redirect="
+    ]
 }
